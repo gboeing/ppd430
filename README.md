@@ -1,3 +1,3 @@
-# Urban Informatics
+# USC PPD430
 
-USC PPD499 / Fall 19
+Urban Informatics
