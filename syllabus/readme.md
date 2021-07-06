@@ -210,21 +210,21 @@ Group assignment 4 due the following Wed
 
 ## Module 8
 
-**Oct 19 - APIs**
+**Oct 19 - Mid-Term Exam**
+
+Exam will comprise a mix of multiple choice and short-answer questions, including some asking you to write short snippets of code.
+
+
+
+## Module 9
+
+**Oct 26 - APIs**
 
 We introduce working with APIs to automatically collect data from the Internet.
 
 Readings to be completed prior to class:
 
   - Boeing, Off the Grid and Back Again. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2020.1819382). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2020.1819382).
-
-
-
-## Module 9
-
-**Oct 26 - Mid-Term Exam**
-
-Exam will comprise a mix of multiple choice and short-answer questions, including some asking you to write short snippets of code.
 
 
 

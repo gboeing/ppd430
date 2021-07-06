@@ -1,19 +1,19 @@
 ##############################################################################
-# USC PPD534 course Dockerfile
+# USC PPD430 course Dockerfile
 #
 # Build image from this Dockerfile:
 # >>> bash docker-build.sh
 # >>> docker login
-# >>> docker tag gboeing/ppd534 gboeing/ppd534:latest
-# >>> docker push gboeing/ppd534
+# >>> docker tag gboeing/ppd430 gboeing/ppd430:latest
+# >>> docker push gboeing/ppd430
 #
 # Run Jupyter Lab in this container:
-# >>> docker run --rm -it -p 8888:8888 -v "$PWD":/home/jovyan/work gboeing/ppd534
+# >>> docker run --rm -it -p 8888:8888 -v "$PWD":/home/jovyan/work gboeing/ppd430
 ##############################################################################
 
 FROM jupyter/base-notebook
 LABEL maintainer="Geoff Boeing <boeing@usc.edu>"
-LABEL url="https://github.com/gboeing/ppd534"
+LABEL url="https://github.com/gboeing/ppd430"
 
 COPY requirements.txt /tmp/
 
@@ -23,7 +23,7 @@ RUN conda config --set show_channel_urls true && \
     conda config --prepend channels conda-forge && \
     conda update --yes -n base conda && \
     conda install --update-all --force-reinstall --yes --file /tmp/requirements.txt && \
-    python -m ipykernel install --sys-prefix --name ox --display-name "Python (ppd534)" && \
+    python -m ipykernel install --sys-prefix --name ox --display-name "Python (ppd430)" && \
     conda clean --all --yes && \
     conda info --all && \
     conda list && \
