@@ -5,7 +5,7 @@ You need a laptop for this course, but all the required software is free and ope
 
 ## Get to know your terminal
 
-Your computer comes with a "terminal" app that lets you type commands for your computer to run (on Windows, the terminal is called "command prompt"). Before you complete the initial software setup below, make sure you have read Module 1's assigned readings on how to use the terminal.
+Your computer comes with a "terminal" app that lets you type commands for your computer to run (on Windows, the terminal is the "Anaconda command prompt"). Before you complete the initial software setup below, make sure you have read Module 1's assigned readings on how to use the terminal.
 
 
 ## Initial software setup
@@ -17,7 +17,7 @@ Install and configure the software by following the steps below.
 
 ### Step 1: Git
 
-Download and install [git](https://git-scm.com/downloads). Then, on your computer, open a terminal window, change directories to your desktop, and clone the course repo to your desktop by running the following command in your terminal:
+Download and install [git](https://git-scm.com/downloads) (64-bit, use default options). Then, on your computer, open a terminal window, change directories to your desktop, and clone the course repo to your desktop by running the following command in your terminal:
 
 ```
 git clone https://github.com/gboeing/ppd430.git
@@ -28,7 +28,7 @@ You now have a `ppd430` folder on your desktop containing the course repo.
 
 ### Step 2: Conda
 
-Download and install [miniconda](https://docs.conda.io/en/latest/miniconda.html). Then open a terminal window (or Anaconda command prompt if on Windows), change directories to the `ppd430` folder on your desktop, and run the following commands, one at a time:
+Download and install [miniconda](https://docs.conda.io/en/latest/miniconda.html) (64-bit, use default options). Then open a terminal window (or Anaconda command prompt if on Windows), change directories to the `ppd430` folder on your desktop, and run the following commands, one at a time:
 
 ```
 git pull
@@ -40,7 +40,7 @@ conda activate ppd430
 python -m ipykernel install --sys-prefix --name ppd430 --display-name "Python (ppd430)"
 ```
 
-You now have a conda environment with all the packages needed for this course, and a Jupyter kernel installed in the environment.
+Some of these steps take a long time to execute. Just let it run until it's done. You now have a conda environment with all the packages needed for this course, and a Jupyter kernel installed in the environment.
 
 
 ## How to run Jupyter
