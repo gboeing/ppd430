@@ -1,6 +1,6 @@
 # Course software
 
-You need a laptop for this course, but all the required software is free and open-source.
+You can use the lab computers to follow along with lectures and complete homework. If you want to install the software on your own computer, all the required software is free and open-source.
 
 
 ## Get to know your terminal
