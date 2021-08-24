@@ -1,6 +1,6 @@
-# Research Design and Data Collection
+# Data Collection
 
-Resources:
+More resources:
 
   - Census data: https://data.census.gov/
   - LA city data portal: https://data.lacity.org/

@@ -1,1 +1,0 @@
-# Spatial Analysis and Mapping
