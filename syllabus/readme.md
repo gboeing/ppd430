@@ -18,7 +18,7 @@ Classroom location and meeting times are [listed online](https://classes.usc.edu
 
 # Course Description
 
-This course empowers you to consume, produce, and evaluate urban data to better interpret and tell urban stories. It will introduce basic coding, visualization, and data processing and analysis. The course uses Python and Jupyter notebooks to introduce coding and statistical methods that students can reproduce and experiment with in real-time in the classroom. We start the semester with the basics of coding, then move on to data loading and analysis, then visualization and mapping, and then a critical assessment urban informatics as a field.
+This course empowers you to consume, produce, and evaluate urban data to better interpret and tell urban stories. It will introduce basic coding, visualization, and data processing and analysis. The course uses Python and Jupyter notebooks to introduce coding and statistical methods that students can reproduce and experiment with in real-time in the classroom. We start the semester with the basics of coding, then move on to data loading and analysis, then visualization and mapping, and then a critical assessment of urban informatics as a field.
 
 Each week, students will be expected to:
 
