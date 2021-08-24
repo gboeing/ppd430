@@ -20,7 +20,7 @@ RUN conda config --set show_channel_urls true && \
     conda config --prepend channels conda-forge && \
     conda update --yes -n base conda && \
     conda install --update-all --force-reinstall --yes --file /tmp/requirements.txt && \
-    python -m ipykernel install --sys-prefix --name ox --display-name "Python (ppd430)" && \
+    python -m ipykernel install --sys-prefix --name ppd430 --display-name "Python (ppd430)" && \
     conda clean --all --yes && \
     conda info --all && \
     conda list && \
