@@ -102,7 +102,7 @@ We introduce the course, the syllabus, the semester's expectations and schedule,
 Readings to be completed prior to class:
 
   - If you're on Windows, read [this guide](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/). If you're on Mac, read [this guide](https://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855).
-  - Conda [user guide](https://docs.conda.io/projects/conda/en/latest/user-guide/index.html)
+  - Boeing and Arribas-Bel. 2021. GIS and Computational Notebooks. In: The Geographic Information Science & Technology Body of Knowledge, edited by J.P. Wilson. [Direct link](https://doi.org/10.22224/gistbok/2021.1.2).
 
 Pre-Survey
 
@@ -251,6 +251,7 @@ We introduce working with APIs to automatically collect data from the Internet.
 
 Readings to be completed prior to class:
 
+  - Park. 2019. How Do APIs Work? Tray.io. [Direct link](https://tray.io/blog/how-do-apis-work).
   - Boeing, Off the Grid and Back Again. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2020.1819382). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2020.1819382).
 
 
@@ -290,7 +291,7 @@ We hold a workshop on urban modeling and prepare for project presentations.
 
 ## Exam Week
 
-**Dec 8 - Final Group Projects Due**
+**Dec 7 - Final Group Projects Due**
 
 
 
