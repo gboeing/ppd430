@@ -78,14 +78,14 @@ Per USC guidelines, for each course unit the university expects 2 hours of out-o
 Final grades will be weighted as follows:
 
   - 20%: six individual reflections
-  - 30%: five group assignments
+  - 30%: five group exercises
   - 20%: individual midterm exam
   - 20%: final group project and presentation
   - 10%: active participation in classroom/Slack and team work
 
 Assignments must be submitted via Blackboard by 23:59 pacific time on their due date. Late assignment submissions will be deducted one letter grade per day. Late final project submissions will not be accepted or graded. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet connections, or temporary system outages. If you have any technical issues when submitting, contact USC IT. It is solely the student's responsibility to ensure that all submissions have gone through on time, so please visually confirm successful submission in the system. The timestamp in the submission system is our official record: if it says you're late, you're late. You can expect grades to be posted within two weeks. Grades are non-negotiable.
 
-Group assignments leverage your diversity of skills and life experiences. We expect each of you to contribute to your group assignments in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination and delegation are challenging but these are necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help us assign participation grades.
+Group exercises leverage your diversity of skills and life experiences. We expect each of you to contribute to your group assignments in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination and delegation are challenging but these are necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help us assign participation grades.
 
 Review the student handbook for expectations on academic integrity. In all assignments, make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas in your own words, you must *cite* them to make it clear whose ideas you're referring to. In an individual reflection, citing the reading's author inline is sufficient for us to understand the citation. In other contexts, use a formal reference to make your citation clear.
 
@@ -121,7 +121,7 @@ Readings to be completed prior to class:
 
 Individual reflection 1 due the night before class
 
-Group assignment 1 due the following Wed
+Group exercise 1 due the following Mon
 
 
 
@@ -150,7 +150,7 @@ Readings to be completed prior to class:
 
 Individual reflection 2 due the night before class
 
-Group assignment 2 due the following Wed
+Group exercise 2 due the following Mon
 
 
 
@@ -182,7 +182,7 @@ Readings to be completed prior to class:
 
 Individual reflection 4 due the night before class
 
-Group assignment 3 due the following Wed
+Group exercise 3 due the following Tue
 
 
 
@@ -207,7 +207,7 @@ Readings to be completed prior to class:
 
   - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/introGIS.html).
 
-Group assignment 4 due the following Wed
+Group exercise 4 due the following Tue
 
 
 
@@ -266,7 +266,7 @@ Readings to be completed prior to class:
 
 Individual reflection 6 due the night before class
 
-Group assignment 5 due Nov 15
+Group exercise 5 due the following Tue
 
 
 
