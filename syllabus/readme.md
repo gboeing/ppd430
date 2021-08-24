@@ -18,12 +18,12 @@ Classroom location and meeting times are [listed online](https://classes.usc.edu
 
 # Course Description
 
-This course provides you with a toolkit for telling stories with urban data. It will introduce basic coding, stats, and reasoning with evidence. The course takes a computational social science approach to working with data. It uses Python and Jupyter notebooks to introduce coding and statistical methods that students can reproduce and experiment with in real-time in the classroom. We start the semester with the basics of coding, then move on to data loading and analysis, then on to basic statistics, then hypotheses and the scientific method, and finally a critical assessment of smart cities and urban informatics.
+This course empowers you to consume, produce, and evaluate urban data to better interpret and tell urban stories. It will introduce basic coding, visualization, and data processing and analysis. The course uses Python and Jupyter notebooks to introduce coding and statistical methods that students can reproduce and experiment with in real-time in the classroom. We start the semester with the basics of coding, then move on to data loading and analysis, then visualization and mapping, and then a critical assessment urban informatics as a field.
 
 Each week, students will be expected to:
 
   - Complete and be prepared to discuss all assigned readings
-  - Complete and submit any assigned reading responses
+  - Complete and submit any assigned individual reflections
   - Attend the lecture
   - Complete and submit any assignments
 
@@ -37,7 +37,7 @@ The course has no specific prerequisites. Coding itself will be taught from the 
   - Collect urban data from the web and APIs
   - Explore, wrangle, clean, transform, and merge data
   - Visualize and map urban data
-  - Conduct basic spatial statistical analyses
+  - Conduct basic statistical analyses
 
 
 
@@ -77,17 +77,17 @@ Per USC guidelines, for each course unit the university expects 2 hours of out-o
 
 Final grades will be weighted as follows:
 
-  - 20%: eight individual reading responses
+  - 20%: six individual reflections
   - 30%: five group assignments
   - 20%: individual midterm exam
-  - 20%: final group project
+  - 20%: final group project and presentation
   - 10%: active participation in classroom/Slack and team work
 
 Assignments must be submitted via Blackboard by 23:59 pacific time on their due date. Late assignment submissions will be deducted one letter grade per day. Late final project submissions will not be accepted or graded. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet connections, or temporary system outages. If you have any technical issues when submitting, contact USC IT. It is solely the student's responsibility to ensure that all submissions have gone through on time, so please visually confirm successful submission in the system. The timestamp in the submission system is our official record: if it says you're late, you're late. You can expect grades to be posted within two weeks. Grades are non-negotiable.
 
 Group assignments leverage your diversity of skills and life experiences. We expect each of you to contribute to your group assignments in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination and delegation are challenging but these are necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help us assign participation grades.
 
-Review the student handbook for expectations on academic integrity. In your reading responses (and all other homework), make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas in your own words, you must *cite* them to make it clear whose ideas you're referring to. In a reading response, citing the reading's author inline is sufficient for us to understand the citation. In other contexts, use a formal reference to make your citation clear.
+Review the student handbook for expectations on academic integrity. In all assignments, make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas in your own words, you must *cite* them to make it clear whose ideas you're referring to. In an individual reflection, citing the reading's author inline is sufficient for us to understand the citation. In other contexts, use a formal reference to make your citation clear.
 
 
 
@@ -95,9 +95,9 @@ Review the student handbook for expectations on academic integrity. In your read
 
 ## Module 1
 
-**Aug 24 - Introduction**
+**Aug 24 - Introduction and Software Workshop**
 
-We introduce the course, the syllabus, the semester's expectations and schedule, and set up the computing environment for coursework.
+We introduce the course, the syllabus, the semester's expectations and schedule, and hold a workshop to install course software on personal computers.
 
 Readings to be completed prior to class:
 
@@ -110,7 +110,7 @@ Pre-Survey
 
 ## Module 2
 
-**Aug 31 - Data collection**
+**Aug 31 - Data Collection**
 
 We discuss basic concepts and terms in statistics, introduce the US census and its methods, and discuss sources of data including the decennial census, the ACS, and government data portals.
 
@@ -118,9 +118,8 @@ Readings to be completed prior to class:
 
   - Wheelan, Naked Statistics, intro + ch. 1
   - Urdan, Statistics in Plain English, ch. 1. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
-  - Macdonald. The American Community Survey. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944360608976768). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944360608976768).
 
-Reading response 1 due the night before class
+Individual reflection 1 due the night before class
 
 Group assignment 1 due the following Wed
 
@@ -149,13 +148,15 @@ Readings to be completed prior to class:
 
   - Downey, Think Python, ch. 4-7. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
+Individual reflection 2 due the night before class
+
 Group assignment 2 due the following Wed
 
 
 
 ## Module 5
 
-**Sep 21 - Data Cleaning and Descriptive Stats**
+**Sep 21 - Working with Data**
 
 We introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
 
@@ -164,22 +165,22 @@ Readings to be completed prior to class:
   - Wheelan, Naked Statistics, ch. 2-3
   - Urdan, Statistics in Plain English, ch. 2-3. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
 
-Reading response 2 due the night before class
+Individual reflection 3 due the night before class
 
 
 
 ## Module 6
 
-**Sep 28 - Data Visualization**
+**Sep 28 - Visualizing Data**
 
 We introduce the basics of visualizing data for exploratory analysis: looking visually for summaries, patterns, and trends.
 
 Readings to be completed prior to class:
 
-  - Tufte, Visual Display of Quantitative Information, ch. 1-3
   - Rost, blog post on [choosing colors](https://blog.datawrapper.de/colors/)
+  - Tufte, Visual Display of Quantitative Information, ch. 1-3
 
-Reading response 3 due the night before class
+Individual reflection 4 due the night before class
 
 Group assignment 3 due the following Wed
 
@@ -187,38 +188,64 @@ Group assignment 3 due the following Wed
 
 ## Module 7
 
-**Oct 5 - Spatial Data**
+**Oct 5 - Visualization Workshop**
+
+We hold a workshop on data visualization, including using Tableau.
+
+Readings to be completed prior to class:
+
+  - Wheelan, Naked Statistics, ch. 5, 7
+
+
+## Module 8
+
+**Oct 12 - Spatial Data**
 
 We introduce the basics of loading spatial data, projecting them, analyzing them, and mapping them.
 
 Readings to be completed prior to class:
 
   - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/introGIS.html).
-  - Wheelan, Naked Statistics, ch. 5, 7
-
-Reading response 4 due the night before class
 
 Group assignment 4 due the following Wed
 
 
 
-## Fall Recess
-
-**Oct 12 - No class**
-
-
-
-## Module 8
-
-**Oct 19 - Mid-Term Exam**
-
-Exam will comprise a mix of multiple choice and short-answer questions, including some asking you to write short snippets of code.
-
-
-
 ## Module 9
 
-**Oct 26 - APIs**
+**Oct 19 - Spatial Data Workshop**
+
+  - Wheelan, Naked Statistics, ch. 8-10
+
+We hold a workshop on working with spatial data, including using Carto.
+
+
+
+## Module 10
+
+**Oct 26 - Mid-Term Exam**
+
+The exam will comprise a mix of multiple-choice questions on the topics we have covered thus far in the course.
+
+
+
+## Module 11
+
+**Nov 2 - Smart Cities**
+
+We introduce the social context and limitations of urban informatics, then consider the smart cities paradigm, civic technology, and citizen science.
+
+Readings to be completed prior to class:
+
+  - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
+
+Individual reflection 5 due the night before class
+
+
+
+## Module 12
+
+**Nov 9 - APIs**
 
 We introduce working with APIs to automatically collect data from the Internet.
 
@@ -228,71 +255,36 @@ Readings to be completed prior to class:
 
 
 
-## Module 10
+## Module 13
 
-**Nov 2 - Social Science and the Scientific Method**
-
-We introduce science, social science, the scientific method, inference, prediction and explanation, and instrumentalism.
+**Nov 16 - Urban Models**
 
 Readings to be completed prior to class:
 
-  - Okasha, Philosophy of Science, ch. 1-4
-
-Reading response 5 due the night before class
-
-
-
-## Module 11
-
-**Nov 9 - Inference and Uncertainty**
-
-We introduce a statistical framework for hypothesis testing, inference, confidence, and uncertainty.
-
-Readings to be completed prior to class:
-
-  - Wheelan, Naked Statistics, ch. 8-10
-  - Urdan, Statistics in Plain English, ch. 4-7. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
-  - Jurjevich et al, Navigating Statistical Uncertainty. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2018.1440182). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2018.1440182).
-  - WSJ [article](https://www.wsj.com/articles/millennials-continue-to-leave-big-cities-11569470460) (available on Blackboard) + CityObservatory [response](http://cityobservatory.org/no-youth_exodus_signal-noise/)
-
-Reading response 6 due the night before class
-
-
-
-## Module 12
-
-**Nov 16 - Statistical Models**
-
-Readings to be completed prior to class:
-
+  - Singleton et al., Urban Analytics, ch. 6
   - Wheelan, Naked Statistics, ch. 4 + 11-13
-  - Urdan, Statistics in Plain English, ch. 8, 9, 13. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
 
-Reading response 7 due the night before class
+Individual reflection 6 due the night before class
 
 Group assignment 5 due Nov 15
 
 
 
-## Thanksgiving Week
+## Module 14
 
-**Nov 23 - No class**
-
-
-
-## Module 13
-
-**Nov 30 - Smart Cities, Ethics, and Evidence-Based Planning**
-
-We introduce the social context and limitations of science as it applies to real-world urban planning practice, then consider the smart cities paradigm and the roles of civic tech, techno-utopianism, and ethics.
+**Nov 23 - Modeling Workshop**
 
 Readings to be completed prior to class:
 
-  - Okasha, Philosophy of Science, ch. 5, 7
-  - Kitchin, The Ethics of Smart Cities and Urban Science. [Direct link](https://doi.org/10.1098/rsta.2016.0115). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1098/rsta.2016.0115).
-  - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
+  - Urdan, Statistics in Plain English, ch. 8, 9, 13. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
 
-Reading response 8 due the night before class
+We hold a workshop on urban modeling and prepare for project presentations.
+
+
+
+## Module 15
+
+**Nov 30 - Final Presentations**
 
 
 
