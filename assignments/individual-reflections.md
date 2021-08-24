@@ -4,7 +4,7 @@ See the schedule in the syllabus for all assignment due dates and expectations. 
 
 ## Instructions
 
-These exercises ask you to reflect critically on the reading material and your own personal life experiences, to come to class prepared to discuss. Each reflection should be submitted as a PDF file, 1 page long, single-spaced, composed in 12-point Times New Roman font. Submit it via Blackboard by 23:59 the day before class.
+These exercises ask you to reflect critically on the reading material and your own personal experiences so you can come to class prepared to discuss. Each reflection should be submitted as a PDF file, 1 page long, single-spaced, composed in 12-point Times New Roman font. Submit it via Blackboard by 23:59 the day before class.
 
 The reflections will be graded according to the following criteria:
 
