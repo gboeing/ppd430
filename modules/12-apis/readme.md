@@ -1,4 +1,4 @@
-# Module 5: APIs
+# APIs
 
 You'll need a Google API key to use the Google Maps Geocoding API and the Google Places API web services. These APIs require you to set up billing info, but we won't use them beyond the free threshold in class.
 
