@@ -213,9 +213,11 @@ Group exercise 4 due the following Tue
 
 **Oct 19 - Spatial Data Workshop**
 
-  - Wheelan, Naked Statistics, ch. 8-10
-
 We hold a workshop on working with spatial data, including using Carto.
+
+Readings to be completed prior to class:
+
+  - Wheelan, Naked Statistics, ch. 8-10
 
 
 
@@ -258,6 +260,8 @@ Readings to be completed prior to class:
 
 **Nov 16 - Urban Models**
 
+We introduce the uses and abuses of urban models and explore their specification, estimation, and interpretation.
+
 Readings to be completed prior to class:
 
   - Singleton et al., Urban Analytics, ch. 6
@@ -273,11 +277,11 @@ Group exercise 5 due the following Tue
 
 **Nov 23 - Modeling Workshop**
 
+We hold a workshop on urban modeling and prepare for project presentations.
+
 Readings to be completed prior to class:
 
   - Urdan, Statistics in Plain English, ch. 8, 9, 13. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
-
-We hold a workshop on urban modeling and prepare for project presentations.
 
 
 
@@ -285,12 +289,15 @@ We hold a workshop on urban modeling and prepare for project presentations.
 
 **Nov 30 - Final Presentations**
 
+In class: complete course evaluations and group peer assessments.
+
 
 
 ## Exam Week
 
 **Dec 7 - Final Group Projects Due**
 
+See the assignments folder for details and deadlines.
 
 
 # Academic Conduct and Support
