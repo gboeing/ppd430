@@ -4,7 +4,7 @@ See the schedule in the syllabus for all assignment due dates and expectations. 
 
 You will analyze the data you downloaded in exercise 1, and optionally other new data as needed. Create a new Jupyter notebook. Use pandas or geopandas to load your data set and clean/process it as needed. Using the techniques we learned in class, estimate and interpret a regression model.
 
-Use a markdown cell to succinctly explain your analysis, why you set it up the way you did, and how you interpret its results. This interpretation should interpret your coefficients numerically in terms of sign, size, and significance, and try to explain what's happening here in the context of theory and your own real-world experience). Tell us a story about the real world using your results. For your regression model, also explain how you specified it and why.
+Use a markdown cell to succinctly explain your analysis, why you set it up the way you did, and how you interpret its results. This interpretation should interpret your coefficients numerically in terms of sign, size, and significance, and try to explain what's happening here in the context of theory and your own real-world experience. Tell us a story about the real world using your results. For your regression model, also explain how you specified it and why.
 
 At the end of the notebook, include a markdown cell that identifies each group member and describes their contribution to this exercise (one sentence each).
 
