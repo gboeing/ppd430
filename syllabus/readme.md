@@ -83,7 +83,7 @@ Final grades will be weighted as follows:
   - 20%: final group project and presentation
   - 10%: active participation in classroom/Slack and team work
 
-See the schedule below for due dates. Assignments must be submitted via Blackboard by 23:59:00 pacific time on their due date. I will grant you a 24 hour, no questions asked, grace period to submit your assigment late without penalty. The submission window closes completely after this grace period and no further submissions will be accepted or graded. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet connections, or temporary system outages. If you have any technical issues when submitting, contact USC IT. It is solely the student's responsibility to ensure that all submissions have gone through on time, so please visually confirm complete successful submission in the system. The timestamp in the submission system is our official record: if it says you're late, you're late.
+See the schedule below for due dates. Submit everything via Blackboard. Reading responses are due by 17:59:00 pacific time and group assignments/projects are due by 23:59:00 pacific time on their due dates. I will grant you a 24 hour, no questions asked, grace period to submit late without penalty. The submission window closes completely after this grace period and no further submissions will be accepted or graded. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet connections, or temporary system outages. If you have any technical issues when submitting, contact USC IT. It is solely the student's responsibility to ensure that all submissions have gone through on time, so please visually confirm complete successful submission in the system. The timestamp in the submission system is our official record: if it says you're late, you're late.
 
 Grades in this course represent holistic qualitative assessments of your performance relative to both the assignments' instructions as well as your peers' performance given the same instructions and time. Grades are non-negotiable. You can expect grades to be posted within two weeks of the assignment's due date.
 
@@ -119,9 +119,7 @@ Readings to be completed prior to class:
   - Wheelan, Naked Statistics, intro + ch. 1
   - Urdan, Statistics in Plain English, ch. 1. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
 
-Individual reflection 1 due the night before class
-
-Group exercise 1 due the following Mon
+Individual reflection 1 due the day before class.
 
 
 
@@ -136,6 +134,8 @@ Readings to be completed prior to class:
   - JupyterLab user guide sections on the [interface](https://jupyterlab.readthedocs.io/en/stable/user/interface.html) and the [notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html)
   - Downey, Think Python, ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
+Group exercise 1 due the day before class.
+
 
 
 ## Module 4
@@ -148,9 +148,7 @@ Readings to be completed prior to class:
 
   - Downey, Think Python, ch. 4-7. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
-Individual reflection 2 due the night before class
-
-Group exercise 2 due the following Mon
+Individual reflection 2 due the day before class.
 
 
 
@@ -165,7 +163,7 @@ Readings to be completed prior to class:
   - Wheelan, Naked Statistics, ch. 2-3
   - Urdan, Statistics in Plain English, ch. 2-3. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
 
-Individual reflection 3 due the night before class
+Individual reflection 3 due the day before class. Group exercise 2 due the day before class.
 
 
 
@@ -180,9 +178,7 @@ Readings to be completed prior to class:
   - Rost, blog post on [choosing colors](https://blog.datawrapper.de/colors/)
   - Tufte, Visual Display of Quantitative Information, ch. 1-3
 
-Individual reflection 4 due the night before class
-
-Group exercise 3 due the following Tue
+Individual reflection 4 due the day before class.
 
 
 
@@ -196,6 +192,9 @@ Readings to be completed prior to class:
 
   - Wheelan, Naked Statistics, ch. 5, 7
 
+Group exercise 3 due the day of class.
+
+
 
 ## Module 8
 
@@ -206,8 +205,6 @@ We introduce the basics of loading spatial data, projecting them, analyzing them
 Readings to be completed prior to class:
 
   - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/introGIS.html).
-
-Group exercise 4 due the following Tue
 
 
 
@@ -220,6 +217,8 @@ We hold a workshop on working with spatial data, including using Carto.
 Readings to be completed prior to class:
 
   - Wheelan, Naked Statistics, ch. 8-10
+
+Group exercise 4 due the day of class.
 
 
 
@@ -241,7 +240,7 @@ Readings to be completed prior to class:
 
   - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
 
-Individual reflection 5 due the night before class
+Individual reflection 5 due the day before class.
 
 
 
@@ -269,9 +268,7 @@ Readings to be completed prior to class:
   - Singleton et al., Urban Analytics, ch. 6
   - Wheelan, Naked Statistics, ch. 4 + 11-13
 
-Individual reflection 6 due the night before class
-
-Group exercise 5 due the following Tue
+Individual reflection 6 due the day before class.
 
 
 
@@ -284,6 +281,8 @@ We hold a workshop on urban modeling and prepare for project presentations.
 Readings to be completed prior to class:
 
   - Urdan, Statistics in Plain English, ch. 8, 9, 13. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
+
+Group exercise 5 due the day of class.
 
 
 
@@ -299,7 +298,6 @@ In class: complete course evaluations and group peer assessments.
 
 **Dec 7 - Final Group Projects Due**
 
-See the assignments folder for details and deadlines.
 
 
 # Academic Conduct and Support
