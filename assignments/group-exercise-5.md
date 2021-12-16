@@ -1,6 +1,6 @@
 # Group Exercise 5: Modeling
 
-See the schedule in the syllabus for all assignment due dates and expectations. Submissions are due by 23:59 on their due date. Group exercises need only one submission per group, so nominate a single submitter to submit on behalf of the whole group. You will be graded on your adherence to *all* the instructions. Please read the instructions carefully.
+See the schedule in the syllabus for all assignment due dates and expectations. Group exercises need only one submission per group, so nominate a single submitter to submit on behalf of the whole group. You will be graded on your adherence to *all* the instructions. Please read the instructions carefully.
 
 You will analyze the data you downloaded in exercise 1, and optionally other new data as needed. Create a new Jupyter notebook. Use pandas or geopandas to load your data set and clean/process it as needed. Using the techniques we learned in class, estimate and interpret a regression model.
 
