@@ -1,6 +1,6 @@
 **Urban Informatics**
 
-USC PPD430 / Fall 2021 / 4 units
+USC PPD430 / Fall 2023 / 4 units
 
 
 
