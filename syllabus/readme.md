@@ -83,7 +83,7 @@ Final grades will be weighted as follows:
   - 20%: final group project and presentation
   - 10%: active participation in classroom/Slack and team work
 
-Assignments must be submitted via Blackboard by 23:59:00 pacific time on their due date. I will grant you a 24 hour, no questions asked, grace period to submit your assigment late without penalty. The submission window closes completely after this grace period and no further submissions will be accepted or graded. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet connections, or temporary system outages. If you have any technical issues when submitting, contact USC IT. It is solely the student's responsibility to ensure that all submissions have gone through on time, so please visually confirm complete successful submission in the system. The timestamp in the submission system is our official record: if it says you're late, you're late.
+See the schedule below for due dates. Assignments must be submitted via Blackboard by 23:59:00 pacific time on their due date. I will grant you a 24 hour, no questions asked, grace period to submit your assigment late without penalty. The submission window closes completely after this grace period and no further submissions will be accepted or graded. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet connections, or temporary system outages. If you have any technical issues when submitting, contact USC IT. It is solely the student's responsibility to ensure that all submissions have gone through on time, so please visually confirm complete successful submission in the system. The timestamp in the submission system is our official record: if it says you're late, you're late.
 
 Grades in this course represent holistic qualitative assessments of your performance relative to both the assignments' instructions as well as your peers' performance given the same instructions and time. Grades are non-negotiable. You can expect grades to be posted within two weeks of the assignment's due date.
 
@@ -310,7 +310,7 @@ Any student requesting academic accommodations based on a disability or ongoing 
 
 ## Academic Conduct
 
-Recording a university class is forbidden without the express permission of the instructor and announcement to the class. Recording can inhibit future free discussion and thus infringe on the academic freedom of other students as well as the instructor.
+Recording a university class in any form is forbidden without the express written permission of the instructor and announcement to the class. Recording can inhibit future free discussion and thus infringe on the academic freedom of other students as well as the instructor.
 
 Plagiarism, presenting someone else's ideas as your own, either verbatim or recast in your own words, is a serious academic offense with serious consequences. Please familiarize yourself with the discussion of plagiarism in SCampus in Part B, Section 11, "Behavior Violating University Standards" https://policy.usc.edu/scampus-part-b. Other forms of academic dishonesty are equally unacceptable. See additional information in SCampus and university policies on scientific misconduct, https://policy.usc.edu/scientific-misconduct.
 
