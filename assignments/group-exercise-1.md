@@ -1,6 +1,6 @@
 # Group Exercise 1: Collecting Data
 
-See the schedule in the syllabus for all assignment due dates and expectations. Submissions are due by 23:59 on their due date. Group exercises need only one submission per group, so nominate a single submitter to submit on behalf of the whole group. You will be graded on your adherence to *all* the instructions. Please read the instructions carefully.
+See the schedule in the syllabus for all assignment due dates and expectations. Group exercises need only one submission per group, so nominate a single submitter to submit on behalf of the whole group. You will be graded on your adherence to *all* the instructions. Please read the instructions carefully.
 
 This course's semester-long project requires you to identify an urban question, collect data, analyze it, and discuss how your findings answer the question.
 
