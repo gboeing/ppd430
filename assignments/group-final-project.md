@@ -1,6 +1,6 @@
 # Final Project
 
-See the schedule in the syllabus for all assignment due dates and expectations. Submissions are due by 23:59 on their due date. Group exercises need only one submission per group, so nominate a single submitter to submit on behalf of the whole group. You will be graded on your adherence to *all* the instructions. Please read the instructions carefully.
+See the schedule in the syllabus for all assignment due dates and expectations. Group exercises need only one submission per group, so nominate a single submitter to submit on behalf of the whole group. You will be graded on your adherence to *all* the instructions. Please read the instructions carefully.
 
 ## Overview
 
@@ -23,5 +23,4 @@ Create 3 or more maps, including at least 1 choropleth map and 1 point map.
 Write a narrative paper (illustrated with your data visualizations) telling the story of your analysis in 2500+ words (not including tables, figures, captions, or references). Incorporate the visualizations and analytical results into your narrative. Organize it into five sections: 1, introduction (provide an overview of your entire project); 2, background (explain the context, prior work, and motivation leading to your question). 3, methods (explain your data and your analytical process). 4, results (lay out your findings and visuals). 5, discussion (circle back to your question and what your analysis tells you about it, what is the big picture and how are these findings useful?). At the top of the first page, include your names, the date, your project title, and the word count (not including tables, figures, captions, or references). At the end of the paper, describe each group member's contribution to this final project (one sentence each).
 
 ## Submission
-
-See syllabus for due date. Via Blackboard, submit a zip file containing the narrative (as PDF), your visualization and map image files, web maps (if any), and the Jupyter notebook(s) and data files used to complete this project. Make sure everything is runnable and reproducible. Late final project submissions will not be accepted or graded, so try to submit a little early just to be safe.
+Via Blackboard, submit a zip file containing the narrative (as PDF), your visualization and map image files, web maps (if any), and the Jupyter notebook(s) and data files used to complete this project. Make sure everything is runnable and reproducible. Submit a little early just to be safe around the deadline.
