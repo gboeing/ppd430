@@ -8,6 +8,7 @@ These exercises ask you to reflect critically on the reading material and your o
 
 The reflections will be graded according to the following criteria:
 
+  - Did you make it clear you read and understood the week's assigned reading material
   - Did you reflect critically and creatively on the readings in your own words in your response
   - Did you succinctly and directly respond to the entire prompt without repetition, filler, or fluff
   - Did you follow the formatting and submission instructions
@@ -16,11 +17,11 @@ The reflections will be graded according to the following criteria:
 
 ### Individual Reflection 1
 
-Statistics can be a powerful tool for telling stories. What urban topics interest you that you might use statistical analysis to reveal new insights about? How might this analysis make the world a better place?
+Statistics can be a powerful tool for telling stories. What urban topics interest you personally that you might use statistical analysis to reveal new insights about? How might this analysis make the world a better place?
 
 ### Individual Reflection 2
 
-Coding can be intimidating when you first begin learning it. How do you feel about coding? Excited, scared, overwhelmed, intrigued? How might you use code in the future? Consider different possible applications at school, in a future career, or in other parts of life.
+Coding can be intimidating when you first begin learning it. How do you personally feel about coding? Excited, scared, overwhelmed, intrigued? How might you use code in the future? Consider different possible applications at school, in a future career, or in other parts of life.
 
 ### Individual Reflection 3
 
@@ -28,7 +29,7 @@ Descriptive statistics can be a powerful force for good or evil. From your own e
 
 ### Individual Reflection 4
 
-The readings discussed different characteristics that make a data visualization either good or bad. What are some of those good and bad characteristics? Provide an example of a data visualization you have seen in the real world: which of these characteristics did it demonstrate? Was it a good or bad visualization? Consider sources from the news, politics, advocacy groups, etc.
+The readings discussed different characteristics that make a data visualization either good or bad. What are some of those good and bad characteristics? Provide a specific example of a data visualization you have seen in the real world: which of these characteristics did it demonstrate? Was it a good or bad visualization? Consider sources from the news, politics, advocacy groups, etc.
 
 ### Individual Reflection 5
 

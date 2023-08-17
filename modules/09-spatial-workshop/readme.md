@@ -1,1 +1,0 @@
-# Spatial Data Workshop
