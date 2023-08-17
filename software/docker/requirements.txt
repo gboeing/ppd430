@@ -1,10 +1,13 @@
+folium
 geopandas
+geopy
 jupyterlab
 mapclassify
 numpy
 osmnx
 pandas
 python == 3.*
+requests
 seaborn
 scipy
 shapely
