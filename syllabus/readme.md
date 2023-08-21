@@ -14,9 +14,7 @@ Office hours: Tue 12:30-13:30, RGL 301A
 
 Classroom location and meeting times are [listed online](https://classes.usc.edu)
 
-TA:
-
-  - Daria Pugacheva (email: pugachev at usc dot edu, office hours: TBD, location)
+TA: Daria Pugacheva (email: pugachev at usc dot edu, office hours: TBD, location)
 
 
 
