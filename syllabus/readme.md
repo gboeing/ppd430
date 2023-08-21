@@ -114,7 +114,7 @@ Readings to be completed prior to class:
   - Boeing and Arribas-Bel. 2021. GIS and Computational Notebooks. In: The Geographic Information Science & Technology Body of Knowledge, edited by J.P. Wilson. [Direct link](https://doi.org/10.22224/gistbok/2021.1.2).
   - TutorialsPoint [Google Colab Tutorial](https://www.tutorialspoint.com/google_colab/) (from the beginning through the "sharing your notebook" section).
 
-Pre-Survey
+Pre-course survey and Slack introductions
 
 
 
