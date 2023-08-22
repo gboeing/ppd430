@@ -14,7 +14,7 @@ Office hours: Tue 12:30-13:30, RGL 301A
 
 Classroom location and meeting times are [listed online](https://classes.usc.edu)
 
-TA: Daria Pugacheva (email: pugachev at usc dot edu, office hours: TBD, location)
+TA: Daria Pugacheva (email: pugachev at usc dot edu, office hours: Tue 17:00-18:00, RGL Student Lounge)
 
 
 
@@ -291,6 +291,8 @@ Individual reflection 6 due the day before class.
 **Nov 28 - Final Presentations**
 
 In class: complete course evaluations and group peer assessments.
+
+Group exercise 5 due the day before class.
 
 
 
