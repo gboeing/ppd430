@@ -183,7 +183,7 @@ We introduce the basics of visualizing data for exploratory analysis: looking vi
 
 Readings to be completed prior to class:
 
-  - Rost, blog post on [choosing colors](https://blog.datawrapper.de/colors/)
+  - Muth, blog post on [choosing colors](https://blog.datawrapper.de/colors/)
   - Tufte, Visual Display of Quantitative Information, ch. 1-3
 
 Individual reflection 4 due the day before class.
