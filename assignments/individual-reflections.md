@@ -37,4 +37,4 @@ In your own experience, what is an example of a smart city technology that cause
 
 ### Individual Reflection 6
 
-Models help us predict and explain the world around us. How can models help urban planners foster better cities? How might models mislead urban planners? 
+Models help us predict and explain the world around us. How can models help urban planners foster better cities? How might models mislead urban planners?
