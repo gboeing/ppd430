@@ -107,9 +107,7 @@ Late submissions are deducted 25% per day late. Note that late final project sub
 
 # Schedule
 
-## Module 1
-
-**Aug 27 - Introduction**
+## Aug 27 - Introduction
 
 We introduce the course, the syllabus, the semester's expectations and schedule, and set up the computing environment for coursework.
 
@@ -122,9 +120,7 @@ Pre-course survey and Slack introductions
 
 
 
-## Module 2
-
-**Sep 3 - Data Collection**
+## Sep 3 - Data Collection
 
 We discuss basic concepts and terms in statistics, introduce the US census and its methods, and discuss sources of data including the decennial census, the ACS, and government data portals.
 
@@ -137,9 +133,7 @@ Individual reflection 1 due the day before class.
 
 
 
-## Module 3
-
-**Sep 10 - Coding Bootcamp I**
+## Sep 10 - Coding Bootcamp I
 
 We introduce the basics of Python, a powerful programming language for data analysis, visualization, and software development. We work with Python via the Jupyter notebook, which lets you use Python in an interactive coding environment.
 
@@ -152,9 +146,7 @@ Group exercise 1 due the day before class.
 
 
 
-## Module 4
-
-**Sep 17 - Coding Bootcamp II**
+## Sep 17 - Coding Bootcamp II
 
 We introduce the basics of Python control: using loops, conditionals, and functions to control the logic and flow of your code's execution.
 
@@ -166,9 +158,7 @@ Individual reflection 2 due the day before class.
 
 
 
-## Module 5
-
-**Sep 24 - Working with Data**
+## Sep 24 - Working with Data
 
 We introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
 
@@ -181,9 +171,7 @@ Individual reflection 3 due the day before class. Group exercise 2 due the day b
 
 
 
-## Module 6
-
-**Oct 1 - Visualizing Data**
+## Oct 1 - Visualizing Data
 
 We introduce the basics of visualizing data for exploratory analysis: looking visually for summaries, patterns, and trends.
 
@@ -196,9 +184,7 @@ Individual reflection 4 due the day before class.
 
 
 
-## Module 7
-
-**Oct 8 - Spatial Data**
+## Oct 8 - Spatial Data
 
 We introduce the basics of loading spatial data, projecting them, analyzing them, and mapping them.
 
@@ -208,17 +194,13 @@ Readings to be completed prior to class:
 
 
 
-## Module 8
-
-**Oct 15 - Mid-Term Exam**
+## Oct 15 - Mid-Term Exam
 
 The exam will comprise a mix of multiple-choice questions on the topics we have covered thus far in the course.
 
 
 
-## Module 9
-
-**Oct 22 - Smart Cities**
+## Oct 22 - Smart Cities
 
 We introduce the social context and limitations of urban informatics, then consider the smart cities paradigm, civic technology, and citizen science.
 
@@ -230,9 +212,7 @@ Individual reflection 5 due the day before class.
 
 
 
-## Module 10
-
-**Oct 29 - Spatial Data Workshop**
+## Oct 29 - Spatial Data Workshop
 
 We hold a workshop on working with spatial data, including using Carto.
 
@@ -244,15 +224,13 @@ Group exercise 4 due the day of class.
 
 
 
-## No class
+## Nov 5 - No class
 
-**Nov 5 - No class (conference travel)**
+Class canceled for conference travel.
 
 
 
-## Module 12
-
-**Nov 12 - APIs**
+## Nov 12 - APIs
 
 We introduce working with APIs to automatically collect data from the Internet.
 
@@ -263,9 +241,7 @@ Readings to be completed prior to class:
 
 
 
-## Module 13
-
-**Nov 19 - Urban Models**
+## Nov 19 - Urban Models
 
 We introduce the uses and abuses of urban models and explore their specification, estimation, and interpretation.
 
@@ -278,25 +254,19 @@ Individual reflection 6 due the day before class.
 
 
 
-## No class
-
-**Nov 26 - No class (happy Thanksgiving)**
+## Nov 26 - Final Workshop
 
 Group exercise 5 due the day before class.
 
 
 
-## Module 14
-
-**Dec 3 - Final Presentations**
+## Dec 3 - Final Presentations
 
 In class: complete course evaluations and group peer assessments.
 
 
 
-## Final Project
-
-**Dec 6 - Final Group Projects Due**
+## Dec 6 - Final Group Projects Due
 
 See the assignments folder for details and deadlines.
 
