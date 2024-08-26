@@ -122,6 +122,8 @@ Pre-course survey and Slack introductions
 
 ## Sep 3 - Data Collection
 
+Individual reflection 1 due the day before class.
+
 We discuss basic concepts and terms in statistics, introduce the US census and its methods, and discuss sources of data including the decennial census, the ACS, and government data portals.
 
 Readings to be completed prior to class:
@@ -129,11 +131,11 @@ Readings to be completed prior to class:
   - Wheelan, Naked Statistics, intro + ch. 1
   - Urdan, Statistics in Plain English, ch. 1. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
 
-Individual reflection 1 due the day before class.
-
 
 
 ## Sep 10 - Coding Bootcamp I
+
+Group exercise 1 due the day before class.
 
 We introduce the basics of Python, a powerful programming language for data analysis, visualization, and software development. We work with Python via the Jupyter notebook, which lets you use Python in an interactive coding environment.
 
@@ -142,11 +144,11 @@ Readings to be completed prior to class:
   - Review the readings from module 1 again
   - Downey, Think Python, ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
-Group exercise 1 due the day before class.
-
 
 
 ## Sep 17 - Coding Bootcamp II
+
+Individual reflection 2 due the day before class.
 
 We introduce the basics of Python control: using loops, conditionals, and functions to control the logic and flow of your code's execution.
 
@@ -154,11 +156,11 @@ Readings to be completed prior to class:
 
   - Downey, Think Python, ch. 4-7. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
-Individual reflection 2 due the day before class.
-
 
 
 ## Sep 24 - Working with Data
+
+Individual reflection 3 due the day before class. Group exercise 2 due the day before class.
 
 We introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
 
@@ -167,11 +169,11 @@ Readings to be completed prior to class:
   - Wheelan, Naked Statistics, ch. 2-3
   - Urdan, Statistics in Plain English, ch. 2-3. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
 
-Individual reflection 3 due the day before class. Group exercise 2 due the day before class.
-
 
 
 ## Oct 1 - Visualizing Data
+
+Individual reflection 4 due the day before class.
 
 We introduce the basics of visualizing data for exploratory analysis: looking visually for summaries, patterns, and trends.
 
@@ -180,11 +182,11 @@ Readings to be completed prior to class:
   - Muth, blog post on [choosing colors](https://blog.datawrapper.de/colors/)
   - Tufte, Visual Display of Quantitative Information, ch. 1-3
 
-Individual reflection 4 due the day before class.
-
 
 
 ## Oct 8 - Spatial Data
+
+Group exercise 3 due the day before class.
 
 We introduce the basics of loading spatial data, projecting them, analyzing them, and mapping them.
 
@@ -202,25 +204,25 @@ The exam will comprise a mix of multiple-choice questions on the topics we have 
 
 ## Oct 22 - Smart Cities
 
+Individual reflection 5 due the day before class.
+
 We introduce the social context and limitations of urban informatics, then consider the smart cities paradigm, civic technology, and citizen science.
 
 Readings to be completed prior to class:
 
   - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
 
-Individual reflection 5 due the day before class.
-
 
 
 ## Oct 29 - Spatial Data Workshop
+
+Group exercise 4 due the day of class.
 
 We hold a workshop on working with spatial data, including using Carto.
 
 Readings to be completed prior to class:
 
   - Wheelan, Naked Statistics, ch. 8-10
-
-Group exercise 4 due the day of class.
 
 
 
@@ -243,14 +245,14 @@ Readings to be completed prior to class:
 
 ## Nov 19 - Urban Models
 
+Individual reflection 6 due the day before class.
+
 We introduce the uses and abuses of urban models and explore their specification, estimation, and interpretation.
 
 Readings to be completed prior to class:
 
   - Singleton et al., Urban Analytics, ch. 6
   - Wheelan, Naked Statistics, ch. 4 + 11-13
-
-Individual reflection 6 due the day before class.
 
 
 
