@@ -79,9 +79,13 @@ Copyrighted course reading materials are available via Brightspace for enrolled 
 
 # Assignments and Evaluation
 
-The following sections outline the work you agree to do by enrolling in this course. Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, you should expect an average of 8 hours of out-of-class work each week: please budget your time accordingly. The balance will vary from week to week, but will comprise a mix of individual reading, individual writing, and group data/code assignments. See the schedule below for assignment due dates and see the "assignments" folder for instructions. Active participation is expected (and graded) in the classroom.
+The following sections outline the work you agree to do by enrolling in this course. Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, you should expect an average of 8 hours of out-of-class work each week: please budget your time accordingly. The balance will vary from week to week, but will comprise a mix of individual reading, individual writing, and group data/code assignments. See the schedule below for assignment due dates and see the "assignments" folder for instructions.
 
 Group exercises leverage your diversity of skills and life experiences. We expect each of you to contribute to your group assignments in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination, delegation, accountability, and conflict resolution are challenging but necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help determine the participation grade you earned. See also: [Coping with Hitchhikers and Couch Potatoes on Teams](https://www.cs.cornell.edu/courses/cs3110/2018fa/teams/hitchhikers.html).
+
+## Attendance
+
+This is an in-person course. Student are expected to manage their schedules such that they can keep all of their committments, including attending class. If you need to miss a class session, you do not need to notify the instructor: attendance is not formally taken and there are no "excused" or "unexcused" absences, nor are there accommodations for missing in-class activities (unless specified in a formal OSAS letter). It is the student's responsibility to request notes, etc from others who were in attendance. Note that active participation is expected (and graded) in the classroom.
 
 ## Grades
 
@@ -93,7 +97,7 @@ Final grades will be weighted as follows:
   - 20%: final group project and presentation
   - 10%: active participation in classroom/Slack and team work
 
-You can expect grades to be posted within two weeks of the assignment's due date. There is no extra credit. Grades are earned solely based on how well submissions meet the requirements and how well they demonstrate your understanding of and competency in the material. They account for your adherence to the instructions and your peers' performance given the same instructions. Effort and time spent do not factor in to grades, and grades are not negotiable. If your demonstrated understanding of and competency in the material are not where you want them to be, start coming to office hours, refocus your effort onto more effective study strategies, and optionally consider tutoring services.
+There is no extra credit. You can expect grades to be posted within two weeks of the assignment's due date. Grades are earned solely based on how well submissions meet the requirements and how well they demonstrate your understanding of and competency in the material. They account for your adherence to the instructions and your peers' performance given the same instructions. Effort and time spent do not factor in to grades, and grades are not negotiable. If your demonstrated understanding of and competency in the material are not where you want them to be, start coming to office hours, refocus your effort onto more effective study strategies, and optionally consider tutoring services.
 
 ## Submission
 
