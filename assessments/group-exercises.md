@@ -1,3 +1,5 @@
+Remember that, per the syllabus, any accommodations or extensions to the class-wide policies require an official OSAS letter.
+
 # Group Exercise 1: Collecting Data
 
 See the schedule in the syllabus for all assignment due dates and expectations. Group exercises need only one submission per group, so nominate a single submitter to submit on behalf of the whole group. You will be graded on your adherence to *all* the instructions. Please read the instructions carefully.

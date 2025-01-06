@@ -23,9 +23,8 @@ This course empowers you to consume, produce, and evaluate urban data to better 
 Each week, students will be expected to:
 
   - Complete and be prepared to discuss all assigned readings
-  - Complete and submit any assigned individual reflections
+  - Complete and submit any learning assessments
   - Attend the lecture
-  - Complete and submit any assignments
 
 The course has no specific prerequisites. Coding itself will be taught from the ground-up. However, this course requires patience and practice: learning to code will take lots of trial-and-error, self-direction, repetition, and experimentation on your part. You will get out of it what you are willing to put into it. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
 
@@ -43,7 +42,7 @@ The course has no specific prerequisites. Coding itself will be taught from the 
 
 # Questions and Assistance
 
-We are available if you need help throughout the semester and are happy to answer your questions. Please ask course-related questions in our course's Slack channel: you should expect a reply typically within two working days. If you have a sensitive personal matter to discuss, please ask by email. Office hours info is provided at the beginning of the syllabus.
+We are available if you need help throughout the semester and are happy to answer your questions. Please ask course-related questions in our course's Slack channel: you should expect a reply typically within two working days. If you have a sensitive personal matter to discuss, please ask by email. Office hours info is provided at the beginning of the syllabus. To respect your time, I try to respond tersely online: please don't mistake this conciseness for rudeness.
 
 ## Who to contact
 
@@ -77,35 +76,42 @@ Copyrighted course reading materials are available via Brightspace for enrolled 
 
 
 
-# Assignments and Evaluation
+# Learning Assessments
 
-The following sections outline the work you agree to do by enrolling in this course. Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, you should expect an average of 8 hours of out-of-class work each week: please budget your time accordingly. The balance will vary from week to week, but will comprise a mix of individual reading, individual writing, and group data/code assignments. See the schedule below for assignment due dates and see the "assignments" folder for instructions.
+The following sections outline the work you agree to do by enrolling in this course. Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, you should expect an average of 8 hours of out-of-class work each week: please budget your time accordingly. See the schedule below for learning assessment due dates and see the "assessments" folder for instructions.
 
-Group exercises leverage your diversity of skills and life experiences. We expect each of you to contribute to your group assignments in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination, delegation, accountability, and conflict resolution are challenging but necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help determine the participation grade you earned. See also: [Coping with Hitchhikers and Couch Potatoes on Teams](https://www.cs.cornell.edu/courses/cs3110/2018fa/teams/hitchhikers.html).
+## Grading Policy
 
-## Attendance
+Grades are earned solely based on how well submissions fulfill the instructions and demonstrate your understanding of and competency in the material. Effort and time spent do not factor in to grades, and grades are not negotiable. If your demonstrated understanding of and competency in the material are not where you want them to be, start coming to office hours, refocus your effort onto more effective study strategies, and optionally consider tutoring services. You can expect the grade you earned to be posted within two weeks of each assessment's due date.
 
-This is an in-person course. Student are expected to manage their schedules such that they can keep all of their committments, including attending class. If you need to miss a class session, you do not need to notify the instructor: attendance is not formally taken and there are no "excused" or "unexcused" absences, nor are there accommodations for missing in-class activities (unless specified in a formal OSAS letter). It is the student's responsibility to request notes, etc from others who were in attendance. Note that active participation is expected (and graded) in the classroom.
+Final grade weighting (there is no extra credit):
 
-## Grades
+  - 10%: ten individual preparatory notes
+  - 30%: ten individual in-class problem sets
+  - 30%: individual midterm exam
+  - 15%: five group exercises
+  - 10%: final group project and presentation
+  - 5%:  peer review
 
-Final grades will be weighted as follows:
+Final grade ranges:
 
-  - 20%: six individual reflections
-  - 30%: five group exercises
-  - 20%: individual midterm exam
-  - 20%: final group project and presentation
-  - 10%: active participation in classroom/Slack and team work
-
-There is no extra credit. You can expect grades to be posted within two weeks of the assignment's due date. Grades are earned solely based on how well submissions meet the requirements and how well they demonstrate your understanding of and competency in the material. They account for your adherence to the instructions and your peers' performance given the same instructions. Effort and time spent do not factor in to grades, and grades are not negotiable. If your demonstrated understanding of and competency in the material are not where you want them to be, start coming to office hours, refocus your effort onto more effective study strategies, and optionally consider tutoring services.
+  - 90 ≤ A (high pass with distinction)
+  - 80 ≤ B < 90 (high pass)
+  - 70 ≤ C < 80 (pass)
+  - 60 ≤ D < 70 (low pass)
+  - F < 60 (fail)
 
 ## Submission
 
-See the schedule below for due dates. Submit everything via Brightspace. Assignments are due by 23:59:00 pacific time on their stated due dates. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet connections, excessive file size, or temporary system outages. If you have any technical issues when submitting, contact USC IT for resolution well before it is due.
+Assignments are due by 23:59:00 Pacific Time on their stated due dates (see schedule below). Each assignment has a 12-hour, no-questions-asked grace period following its deadline during which it will be accepted as though on-time. After that, you can submit late for a 25% penalty until the submission system closes 24 hours after the original deadline.
 
-It is solely the student's responsibility to ensure that all submissions have gone through on time and contain the complete, working, correct files. Double-check and verify correct and successful submission, and fix it if necessary, before the deadline. You are graded solely on what you submit on Brightspace prior to the deadline. The timestamp in the submission system is our only official record: if it says you're late, you're late. Submissions outside of Brightspace (e.g., by email or on Google Drive) will not be accepted or graded. If your data set is too large for the submission system, you may upload *only your data set* to the USC Google Drive and provide a link to it in the first cell of your submitted Jupyter notebook that uses it.
+Submit everything via Brightspace's submission system. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet, or temporary system outages. If you have any technical issues when submitting, contact USC IT for resolution well before it is due. It is solely the student's responsibility to ensure that all submissions have gone through on time and contain the complete, working, correct files. Double-check and verify correct and successful submission, and fix it if necessary, before the deadline. You are graded solely on what you submit on Brightspace prior to the deadline. The timestamp in the submission system is our only official record: if it says you're late, you're late. Submissions outside of Brightspace (e.g., by email or on Google Drive) will not be accepted or graded. If your data set is too large for the submission system, you may upload *only your data set* to the USC Google Drive and provide a link to it in the first cell of your submitted Jupyter notebook that uses it.
 
-Late submissions are deducted 25% per day late. Note that late final project submissions will not be accepted or graded.
+## Attendance Policy and Group Work
+
+This is an in-person course. Student are expected to manage their schedules such that they can keep all of their committments, including attending class. If you need to miss a class session, you do not need to notify the instructor: attendance is not formally taken and there are no "excused" or "unexcused" absences, nor are there accommodations for missing in-class activities. It is the student's responsibility to request notes, etc from others who were in attendance.
+
+Group exercises leverage your diversity of skills and life experiences. We expect each of you to contribute to your group assessments in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination, delegation, accountability, and conflict resolution are challenging but necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help determine the participation grade you earned. See also: [Coping with Hitchhikers and Couch Potatoes on Teams](https://www.cs.cornell.edu/courses/cs3110/2018fa/teams/hitchhikers.html).
 
 
 
@@ -113,40 +119,45 @@ Late submissions are deducted 25% per day late. Note that late final project sub
 
 ## Aug 27 - Introduction
 
-We introduce the course, the syllabus, the semester's expectations and schedule, and set up the computing environment for coursework.
+Learning objectives: course policies, the semester's schedule, and the computing environment for coursework.
 
-Readings to be completed prior to class:
-
-  - Boeing and Arribas-Bel. 2021. GIS and Computational Notebooks. In: The Geographic Information Science & Technology Body of Knowledge, edited by J.P. Wilson. [Direct link](https://doi.org/10.22224/gistbok/2021.1.2).
+Pre-class readings/prep:
+  - this syllabus
   - TutorialsPoint [Google Colab Tutorial](https://www.tutorialspoint.com/google_colab/) (from the beginning through the "sharing your notebook" section).
 
-Pre-course survey and Slack introductions
+Activities and assessments:
+  - in-class problem set 1
+  - pre-course survey and Slack introductions
 
 
 
 ## Sep 3 - Data Collection
 
-Individual reflection 1 due the day before class.
+Learning objectives: basic statistical concepts and terms, the US census and its methods, and sources of data including the decennial census, the ACS, and government data portals.
 
-We discuss basic concepts and terms in statistics, introduce the US census and its methods, and discuss sources of data including the decennial census, the ACS, and government data portals.
-
-Readings to be completed prior to class:
-
+Pre-class readings/prep:
   - Wheelan, Naked Statistics, intro + ch. 1
   - Urdan, Statistics in Plain English, ch. 1. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
+
+Activities and assessments:
+  - prep notes 1 due the Sunday before class
+  - in-class problem set 2
+  - in-class group work for exercise 1
 
 
 
 ## Sep 10 - Coding Bootcamp I
 
-Group exercise 1 due the day before class.
+Learning objectives: we introduce the basics of Python, a powerful programming language for data analysis, visualization, and software development; then we work with Python via the Jupyter notebook, which lets you use Python in an interactive coding environment.
 
-We introduce the basics of Python, a powerful programming language for data analysis, visualization, and software development. We work with Python via the Jupyter notebook, which lets you use Python in an interactive coding environment.
-
-Readings to be completed prior to class:
-
-  - Review the readings from module 1 again
+Pre-class readings/prep:
+  - Review the TutorialsPoint reading from week 1 again
   - Downey, Think Python, ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-2e/)
+
+Activities and assessments:
+  - group exercise 1 due the Sunday before class
+  - prep notes 2 due the Sunday before class
+  - in-class problem set 3
 
 
 
@@ -274,17 +285,26 @@ In class: complete course evaluations and group peer assessments.
 
 ## Dec 6 - Final Group Projects Due
 
-See the assignments folder for details.
+See the assessments folder for details.
 
 
 
 # Academic Conduct and Support
 
+## Classroom Values
+
+Our classroom adheres to four central norms of professionalism:
+
+  - We respect others' opinions, but defer to facts.
+  - We give honest criticism, but keep it constructive and courteous.
+  - We alone are responsible for our own actions, which we alone choose.
+  - We adhere to the syllabus, so the squeaky wheel does not get an advantage over their peers.
+
 ## Accommodations and Extensions
 
 USC welcomes students with disabilities into all of the University's educational programs. The Office of Student Accessibility Services (OSAS) is responsible for the determination of appropriate accommodations for students who encounter disability-related barriers. Once a student has completed the OSAS process (registration, initial appointment, and submitted documentation) and accommodations are determined to be reasonable and appropriate, a Letter of Accommodation (LOA) will be available to generate for each course. The LOA must be given to each course instructor by the student and followed up with a discussion. This should be done as early in the semester as possible as accommodations are not retroactive. More information can be found at OSAS's [web site](https://osas.usc.edu/). You may contact OSAS at (213) 740-0776 or via email at osasfrontdesk@usc.edu.
 
-To maintain fairness and equality for all students, extensions to due dates are only granted in accordance with official LOAs. If you need to request a *one-time emergency* extension to an assignment (e.g., due to a major illness requiring hospitalization or due to a death in the family) you must do the following proactively *prior to its due date*: 1) provide written documentation, such as an official doctor's note, explaining why you are unable to complete the assignment by its due date and 2) work out an extension with the instructor.
+To maintain fairness and equity for all students, extensions to due dates are only granted in accordance with official LOAs. If you need to request a *one-time emergency* extension (e.g., due to a major illness requiring hospitalization or due to a death in the family) you must do the following proactively *prior to its due date*: 1) provide written documentation, such as an official doctor's note, demonstrating that you are unable to complete the assignment by its due date and 2) work out an extension with the instructor prior to the official due date. There are no retroactive accommodations negotiable after deadlines. Note that there is no accommodation for personal travel: it's the student's responsibility to know the school schedule before they book travel and to adjust the travel dates as needed.
 
 Course content and classroom discussion may deal with topics that you find difficult or upsetting but are relevant to the course. It is your responsibility to review the syllabus to be aware of upcoming content so you can prepare for it adequately. Contact OSAS for an LOA if you require an accommodation.
 
@@ -296,7 +316,7 @@ The University of Southern California is foremost a learning community committed
 
 This course will follow the expectations for academic integrity as stated in the USC Student Handbook. All students are expected to submit assignments that are original work and prepared specifically for the course/section in this academic term. You may not submit work written by others or "recycle" work prepared for other courses without obtaining written permission from the instructor(s). Students suspected of engaging in academic misconduct will be reported to the Office of Academic Integrity. Other violations of academic misconduct include, but are not limited to, cheating, plagiarism, fabrication (e.g., falsifying data), knowingly assisting others in acts of academic dishonesty, and any act that gains or is intended to gain an unfair academic advantage. The impact of academic dishonesty is far-reaching and is considered a serious offense against the university and could result in outcomes such as failure on the assignment, failure in the course, suspension, or even expulsion from the university. For more information about academic integrity see the student handbook or the Office of Academic Integrity's website, and university policies on Research and Scholarship Misconduct.
 
-Make sure you review the student handbook for expectations on academic integrity, and never commit [plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism). It is serious academic misconduct. In all your assignments, make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas in your own words, you must *cite* them to make it clear whose ideas you're referring to. In a reading response, citing the reading's author inline is sufficient for us to understand the citation. In other contexts, use a formal reference to make your citation clear.
+Make sure you review the student handbook for expectations on academic integrity and never commit [plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism). It is serious academic misconduct. In all your assignments, make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas in your own words, you must *cite* them to make it clear whose ideas you're referring to. In a reading response, citing the reading's author inline is sufficient for us to understand the citation. In other contexts, use a formal reference to make your citation clear.
 
 Content generated from AI, machine learning, or similar algorithmic tools including Chat-GPT and Google Translate cannot be submitted in this course. A violation of this policy constitutes academic misconduct.
 
