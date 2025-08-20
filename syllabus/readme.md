@@ -281,7 +281,7 @@ Activities and assessments:
 
 
 
-## Nov 18 - Smart Cities
+## Nov 18 - Smart Cities and Informatics
 
 Learning objectives: we introduce the social context and limitations of urban informatics, then consider the smart cities paradigm, civic technology, and citizen science.
 
@@ -297,13 +297,21 @@ Activities and assessments:
 
 ## Nov 25 - Final Workshop
 
-Group exercise 5 due the day before class.
+Learning objectives: we review the semester's material, practice different skills, and work together on group projects.
+
+Activities and assessments:
+  - in-class group work for the final projects
 
 
 
 ## Dec 2 - Final Presentations
 
-In class: complete course evaluations and group peer assessments.
+Learning objectives: we present our final projects and receive feedback for revisions before final submission.
+
+Activities and assessments:
+  - in-class group presentations
+  - in-class course evaluations
+  - in-class group peer assessments
 
 
 
