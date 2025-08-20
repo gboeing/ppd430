@@ -1,6 +1,6 @@
 **Urban Informatics**
 
-USC PPD430 / Fall 2024 / 4 units
+USC PPD430 / Fall 2025 / 4 units
 
 
 
@@ -14,6 +14,7 @@ Office hours: Tue 13:00-14:00, RGL 301A
 
 Classroom location and meeting times are [listed online](https://classes.usc.edu)
 
+TA: Jiyoon Kim (email: kimjiyoo at usc dot edu, office hours: time TBD, location TBD)
 
 
 # Course Description
@@ -22,9 +23,9 @@ This course empowers you to consume, produce, and evaluate urban data to better 
 
 Each week, students will be expected to:
 
-  - Complete and be prepared to discuss all assigned readings
+  - Complete and be prepared to discuss assigned readings and videos
   - Complete and submit any learning assessments
-  - Attend the lecture
+  - Attend the class session
 
 The course has no specific prerequisites. Coding itself will be taught from the ground-up. However, this course requires patience and practice: learning to code will take lots of trial-and-error, self-direction, repetition, and experimentation on your part. You will get out of it what you are willing to put into it. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
 
@@ -36,7 +37,7 @@ The course has no specific prerequisites. Coding itself will be taught from the 
   - Collect urban data from the web and APIs
   - Explore, wrangle, clean, transform, and merge data
   - Visualize and map urban data
-  - Conduct basic statistical analyses
+  - Conduct basic urban analytics
 
 
 
@@ -46,7 +47,7 @@ We are available if you need help throughout the semester and are happy to answe
 
 ## Who to contact
 
-If you have a question about class material, homework, or a coding/data problem: post on Slack. If you have a specific question for the professor outside of those categories, please drop by his office hours to chat.
+If you have a question about class material, homework, or a coding/data problem: post on Slack or drop by the TA's office hours. If you have a specific question for the professor outside of those categories, please drop by his office hours to chat.
 
 ## How to ask a technical question
 
@@ -70,30 +71,42 @@ We do not ask for this to be pedantic. Rather, we need it to be able to help you
 
 # Materials
 
-Coursework will be based on free open-source software.
-
-Copyrighted course reading materials are available via Brightspace for enrolled students to download. The course lectures assume that you have read the assigned readings prior to the class session and are now reasonably fluent in their contents and ready to discuss/debate them in class. Lectures are supplemental to the assigned reading and are of little value if you haven't taken the time to prepare in advance. So, before class, make sure you have completed the assigned reading, taken thorough notes, and prepared any questions you may have about the material.
+Coursework will be based on free open-source software. Copyrighted course reading materials are available via Brightspace for enrolled students to download. The course lectures assume that you have read the assigned readings prior to the class session and are now reasonably fluent in their contents and ready to discuss/debate them in class. Lectures are supplemental to the assigned reading and are of little value if you haven't taken the time to prepare in advance. So, before class, make sure you have completed the assigned reading, taken thorough notes, and prepared any questions you may have about the material.
 
 
 
-# Learning Assessments
+# Coursework
 
-The following sections outline the work you agree to do by enrolling in this course. Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, you should expect an average of 8 hours of out-of-class work each week: please budget your time accordingly. See the schedule below for learning assessment due dates and see the "assessments" folder for instructions.
+The following sections outline the work you agree to do by enrolling in this course. Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, you should expect an average of 8 hours of out-of-class work each week. Please budget your time accordingly. See the schedule below for learning assessment due dates and see the "assessments" folder for instructions.
+
+## Submission Policy
+
+Submissions are due by 23:59:00 Pacific Time on their stated due dates (see schedule below). Submit everything via Brightspace's submission system.
+
+Please submit early to avoid any last-minute headaches such as slow uploads, connectivity problems, or temporary system outages. If you have any technical issues when submitting, contact USC IT for resolution well before it is due. It is solely the student's responsibility to ensure that all submissions have gone through on time and contain the complete, working, correct files. Double-check and verify correct and successful submission, and fix it if necessary, before the deadline. You are graded solely on what you submit on Brightspace prior to the deadline. The timestamp in the submission system is our only official record: if it says you're late, you're late. Submissions outside of Brightspace (e.g., by email or on Google Drive) will not be accepted or graded. If your data set is too large for the submission system, you may upload *only your data set* to the USC Google Drive and provide a link to it in the first cell of your submitted Jupyter notebook that uses it.
+
+## Late Policy and Extensions
+
+The professional world demands punctuality, which we practice in this course through relatively strict deadlines. However, sometimes things come up and we could use a little grace. Each assessment comes with a 12-hour, no-questions-asked grace period following its deadline during which it will be accepted as though on-time (does not apply to exams or final projects). You can submit after that for a 25% penalty until the submission system closes completely 24 hours after the original deadline.
+
+You additionally have two "free drops" that you can use to drop any individual assessments (does not apply to group work or exams). Just submit a free drop on Brightspace, identify the assessment to drop in the comment box, and we will set its grade to 100%. Do not notify the instructor: you don't have to ask for permission, or justify it, or provide documentation. This offers you some grace without having to share private information about your personal circumstances, family, or health. For example, use a free drop to stay home sick and not worry about losing points for an in-class activity that day. Or use one to take a week off if an emergency occurs, such as sudden hospitalization or a death in the family. But save them for when you really need them: if you require more than these two free drops, you must get an accommodation through OSAS for additional extensions.
 
 ## Grading Policy
 
-Grades are earned solely based on how well submissions fulfill the instructions and demonstrate your understanding of and competency in the material. Effort and time spent do not factor in to grades, and grades are not negotiable. If your demonstrated understanding of and competency in the material are not where you want them to be, start coming to office hours, refocus your effort onto more effective study strategies, and optionally consider tutoring services. You can expect the grade you earned to be posted within two weeks of each assessment's due date.
+You can expect the grade you earned to be posted within two weeks of each assessment's due date. Grades are earned solely based on how well submissions fulfill the instructions and demonstrate your proficiency in the material. Effort and time spent do not factor in to grades. If your demonstrated proficiency is not where you want it to be, start coming to office hours, refocus your effort onto more effective study strategies, and optionally consider tutoring services.
+
+Posted grades are final and non-negotiable. This policy exists to protect you and ensure equitable outcomes for both you and your classmates. Professors don't arbitrarily hand out grades, and thus they should never arbitrarily alter them either. Accordingly, no grade disputes regarding the grader's expert judgment and standards will be considered. However, if we have made an arithmetic error in inputting your grade (e.g., you earned a certain number of points but we summed them incorrectly in the final grade), please provide specific documentation of that clerical error and we'll be happy to correct it.
 
 Final grade weighting (there is no extra credit):
 
   - 10%: ten individual preparatory notes
-  - 30%: ten individual in-class problem sets
-  - 30%: individual midterm exam
-  - 15%: five group exercises
+  - 25%: ten individual in-class problem sets
+  - 25%: individual midterm exam
+  - 25%: five group exercises
   - 10%: final group project and presentation
   - 5%:  peer review
 
-Final grade ranges:
+Final grade percentage ranges and meaning:
 
   - 90 ≤ A (high pass with distinction)
   - 80 ≤ B < 90 (high pass)
@@ -101,23 +114,17 @@ Final grade ranges:
   - 60 ≤ D < 70 (low pass)
   - F < 60 (fail)
 
-## Submission
-
-Assignments are due by 23:59:00 Pacific Time on their stated due dates (see schedule below). Each assignment has a 12-hour, no-questions-asked grace period following its deadline during which it will be accepted as though on-time. After that, you can submit late for a 25% penalty until the submission system closes 24 hours after the original deadline.
-
-Submit everything via Brightspace's submission system. Please submit early to avoid any last-minute headaches such as slow uploads, weak internet, or temporary system outages. If you have any technical issues when submitting, contact USC IT for resolution well before it is due. It is solely the student's responsibility to ensure that all submissions have gone through on time and contain the complete, working, correct files. Double-check and verify correct and successful submission, and fix it if necessary, before the deadline. You are graded solely on what you submit on Brightspace prior to the deadline. The timestamp in the submission system is our only official record: if it says you're late, you're late. Submissions outside of Brightspace (e.g., by email or on Google Drive) will not be accepted or graded. If your data set is too large for the submission system, you may upload *only your data set* to the USC Google Drive and provide a link to it in the first cell of your submitted Jupyter notebook that uses it.
-
 ## Attendance Policy and Group Work
 
-This is an in-person course. Student are expected to manage their schedules such that they can keep all of their committments, including attending class. If you need to miss a class session, you do not need to notify the instructor: attendance is not formally taken and there are no "excused" or "unexcused" absences, nor are there accommodations for missing in-class activities. It is the student's responsibility to request notes, etc from others who were in attendance.
+This is an in-person course. Students are expected to manage their schedules such that they can keep all of their commitments, including attending class. If you need to miss a class session, do not notify the instructor: attendance is not taken, so there are no "excused" versus "unexcused" absences, nor are there accommodations for missing in-class activities. It is the student's responsibility to request notes, etc from others who were in attendance.
 
-Group exercises leverage your diversity of skills and life experiences. We expect each of you to contribute to your group assessments in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination, delegation, accountability, and conflict resolution are challenging but necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help determine the participation grade you earned. See also: [Coping with Hitchhikers and Couch Potatoes on Teams](https://www.cs.cornell.edu/courses/cs3110/2018fa/teams/hitchhikers.html).
+In-class group activities and graded group exercises leverage your diversity of skills and life experiences. We expect each of you to contribute to your group in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination, delegation, accountability, and conflict resolution are challenging but necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help determine the participation grade you earned. See also: [Coping with Hitchhikers and Couch Potatoes on Teams](https://www.cs.cornell.edu/courses/cs3110/2018fa/teams/hitchhikers.html).
 
 
 
 # Schedule
 
-## Aug 27 - Introduction
+## Aug 26 - Introduction
 
 Learning objectives: course policies, the semester's schedule, and the computing environment for coursework.
 
@@ -131,7 +138,7 @@ Activities and assessments:
 
 
 
-## Sep 3 - Data Collection
+## Sep 2 - Data Collection
 
 Learning objectives: basic statistical concepts and terms, the US census and its methods, and sources of data including the decennial census, the ACS, and government data portals.
 
@@ -146,7 +153,7 @@ Activities and assessments:
 
 
 
-## Sep 10 - Coding Bootcamp I
+## Sep 9 - Coding Bootcamp I
 
 Learning objectives: we introduce the basics of Python, a powerful programming language for data analysis, visualization, and software development; then we work with Python via the Jupyter notebook, which lets you use Python in an interactive coding environment.
 
@@ -161,129 +168,146 @@ Activities and assessments:
 
 
 
-## Sep 17 - Coding Bootcamp II
+## Sep 16 - Coding Bootcamp II
 
-Individual reflection 2 due the day before class.
+Learning objectives: we introduce the basics of control flow - using loops, conditionals, and functions to control the logic and flow of your code's execution.
 
-We introduce the basics of Python control: using loops, conditionals, and functions to control the logic and flow of your code's execution.
-
-Readings to be completed prior to class:
-
+Pre-class readings/prep:
   - Downey, Think Python, ch. 4-7. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
+Activities and assessments:
+  - prep notes 3 due the Sunday before class
+  - in-class problem set 4
+  - in-class group work for exercise 2
 
 
-## Sep 24 - Working with Data
+## Sep 23 - Working with Data
 
-Individual reflection 3 due the day before class. Group exercise 2 due the day before class.
+Learning objectives: we introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
 
-We introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
-
-Readings to be completed prior to class:
-
+Pre-class readings/prep:
   - Wheelan, Naked Statistics, ch. 2-3
   - Urdan, Statistics in Plain English, ch. 2-3. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
 
+Activities and assessments:
+  - group exercise 2 due the Sunday before class
+  - prep notes 4 due the Sunday before class
+  - in-class problem set 5
 
 
-## Oct 1 - Visualizing Data
 
-Individual reflection 4 due the day before class.
+## Sep 30 - Visualizing Data
 
-We introduce the basics of visualizing data for exploratory analysis: looking visually for summaries, patterns, and trends.
+Learning objectives: we introduce the basics of visualizing data for exploratory analysis: looking visually for summaries, patterns, and trends.
 
-Readings to be completed prior to class:
-
+Pre-class readings/prep:
   - Muth, blog post on [choosing colors](https://blog.datawrapper.de/colors/)
   - Tufte, Visual Display of Quantitative Information, ch. 1-3
 
+Activities and assessments:
+  - prep notes 5 due the Sunday before class
+  - in-class problem set 6
+  - in-class group work for exercise 3
 
 
-## Oct 8 - Spatial Data
 
-Group exercise 3 due the day before class.
+## Oct 7 - Spatial Data
 
-We introduce the basics of loading spatial data, projecting them, analyzing them, and mapping them.
+Learning objectives: we introduce the basics of loading spatial data, projecting them, analyzing them, and mapping them.
 
-Readings to be completed prior to class:
-
+Pre-class readings/prep:
   - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/introGIS.html).
 
-
-
-## Oct 15 - Mid-Term Exam
-
-The exam will comprise a mix of multiple-choice questions on the topics we have covered thus far in the course.
-
-
-
-## Oct 22 - Smart Cities
-
-Individual reflection 5 due the day before class.
-
-We introduce the social context and limitations of urban informatics, then consider the smart cities paradigm, civic technology, and citizen science.
-
-Readings to be completed prior to class:
-
-  - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
+Activities and assessments:
+  - prep notes 6 due the Sunday before class
+  - group exercise 3 due the Sunday before class
+  - in-class problem set 7
 
 
 
-## Oct 29 - Spatial Data Workshop
+## Oct 14 - Spatial Data Workshop
 
-Group exercise 4 due the day of class.
+Learning objectives: we hold a workshop on working with spatial data.
 
-We hold a workshop on working with spatial data, including using Carto.
-
-Readings to be completed prior to class:
-
+Pre-class readings/prep:
   - Wheelan, Naked Statistics, ch. 8-10
 
+Activities and assessments:
+  - prep notes 7 due the Sunday before class
+  - in-class mid-term review
+  - in-class group work for exercise 4
+  - group exercise 4 due the day after class
 
 
-## Nov 5 - No class
+
+## Oct 21 - No class
 
 Class canceled for conference travel.
 
 
 
-## Nov 12 - APIs
+## Oct 28 - Mid-Term Exam
 
-We introduce working with APIs to automatically collect data from the Internet.
+See assessments folder for details.
 
-Readings to be completed prior to class:
 
+
+## Nov 4 - APIs
+
+Learning objectives: we introduce working with APIs to automatically collect data from the Internet.
+
+Pre-class readings/prep:
   - Park. 2019. How Do APIs Work? Tray.io. [Direct link](https://tray.io/blog/how-do-apis-work).
   - Boeing, Off the Grid and Back Again. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2020.1819382). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2020.1819382).
 
+Activities and assessments:
+  - prep notes 8 due the Sunday before class
+  - in-class problem set 8
 
 
-## Nov 19 - Urban Models
 
-Individual reflection 6 due the day before class.
+## Nov 11 - Urban Models
 
-We introduce the uses and abuses of urban models and explore their specification, estimation, and interpretation.
+Learning objectives: we introduce the uses and abuses of urban models and explore their specification, estimation, and interpretation.
 
-Readings to be completed prior to class:
-
+Pre-class readings/prep:
   - Singleton et al., Urban Analytics, ch. 6
   - Wheelan, Naked Statistics, ch. 4 + 11-13
 
+Activities and assessments:
+  - prep notes 9 due the Sunday before class
+  - in-class problem set 9
+  - in-class group work for exercise 5
 
 
-## Nov 26 - Final Workshop
+
+## Nov 18 - Smart Cities
+
+Learning objectives: we introduce the social context and limitations of urban informatics, then consider the smart cities paradigm, civic technology, and citizen science.
+
+Pre-class readings/prep:
+  - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
+
+Activities and assessments:
+  - group exercise 5 due the Sunday before class
+  - prep notes 10 due the Sunday before class
+  - in-class problem set 10
+
+
+
+## Nov 25 - Final Workshop
 
 Group exercise 5 due the day before class.
 
 
 
-## Dec 3 - Final Presentations
+## Dec 2 - Final Presentations
 
 In class: complete course evaluations and group peer assessments.
 
 
 
-## Dec 6 - Final Group Projects Due
+## Dec 5 - Final Group Projects Due
 
 See the assessments folder for details.
 
@@ -291,57 +315,53 @@ See the assessments folder for details.
 
 # Academic Conduct and Support
 
-## Classroom Values
+## Classroom Norms
 
 Our classroom adheres to four central norms of professionalism:
 
   - We respect others' opinions, but defer to facts.
   - We give honest criticism, but keep it constructive and courteous.
-  - We alone are responsible for our own actions, which we alone choose.
-  - We adhere to the syllabus, so the squeaky wheel does not get an advantage over their peers.
+  - We alone are responsible for our own actions.
+  - We adhere to the syllabus, so the squeaky wheel does not gain an advantage over their peers.
 
-## Accommodations and Extensions
+## Accommodations
 
-USC welcomes students with disabilities into all of the University's educational programs. The Office of Student Accessibility Services (OSAS) is responsible for the determination of appropriate accommodations for students who encounter disability-related barriers. Once a student has completed the OSAS process (registration, initial appointment, and submitted documentation) and accommodations are determined to be reasonable and appropriate, a Letter of Accommodation (LOA) will be available to generate for each course. The LOA must be given to each course instructor by the student and followed up with a discussion. This should be done as early in the semester as possible as accommodations are not retroactive. More information can be found at OSAS's [web site](https://osas.usc.edu/). You may contact OSAS at (213) 740-0776 or via email at osasfrontdesk@usc.edu.
+USC welcomes students with disabilities into all of the University’s educational programs. The Office of Student Accessibility Services (OSAS) is responsible for the determination of appropriate accommodations for students who encounter disability-related barriers. Once a student has completed the OSAS process (registration, initial appointment, and submitted documentation) and accommodations are determined to be reasonable and appropriate, a Letter of Accommodation (LOA) will be available to generate for each course. The LOA must be given to each course instructor by the student and followed up with a discussion. This should be done as early in the semester as possible as accommodations are not retroactive. More information can be found at https://osas.usc.edu/. You may contact OSAS at (213) 740-0776 or osasfrontdesk@usc.edu.
 
-To maintain fairness and equity for all students, extensions to due dates are only granted in accordance with official LOAs. If you need to request a *one-time emergency* extension (e.g., due to a major illness requiring hospitalization or due to a death in the family) you must do the following proactively *prior to its due date*: 1) provide written documentation, such as an official doctor's note, demonstrating that you are unable to complete the assignment by its due date and 2) work out an extension with the instructor prior to the official due date. There are no retroactive accommodations negotiable after deadlines. Note that there is no accommodation for personal travel: it's the student's responsibility to know the school schedule before they book travel and to adjust the travel dates as needed.
+To maintain fairness and equity for all students, exceptions to syllabus policies are only granted in accordance with official LOAs. There are no retroactive accommodations negotiable after deadlines. There is no accommodation for travel: it's the student's responsibility to know the school schedule before they book travel and to adjust travel dates as needed. Course content and classroom discussion may deal with topics that you find difficult or upsetting but are relevant to the course. It is your responsibility to review the syllabus to be aware of upcoming content so you can prepare for it adequately. Contact OSAS for an LOA if you require an accommodation.
 
-Course content and classroom discussion may deal with topics that you find difficult or upsetting but are relevant to the course. It is your responsibility to review the syllabus to be aware of upcoming content so you can prepare for it adequately. Contact OSAS for an LOA if you require an accommodation.
+## Plagiarism and AI
+
+Review the student handbook for expectations on academic integrity and understand what constitutes [plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism). Do not reproduce any words, images, code, or other content created by another author (including AI) without quote marks and citation. If you instead refer to their ideas in your own words, you must cite them to make it clear whose ideas you're referring to. Content generated from AI or similar tools including ChatGPT and Google Translate may be submitted in this course (except where expressly prohibited) in accordance with the preceding plagiarism guidelines. You are solely responsible for any submitted content: false claims and fake references, regardless of their origin, are academic integrity violations, so review all content carefully before submission.
 
 ## Academic Conduct
 
-Recording a university class in any form is forbidden without the express permission of the instructor and announcement to the class, or unless conducted pursuant to an OSAS accommodation. Recording can inhibit free discussion in the future, and thus infringe on the academic freedom of other students as well as the instructor. Distribution or use of notes, recordings, exams, or other intellectual property based on university classes or lectures for purposes other than individual or group study is forbidden without the express permission of the instructor. This includes but is not limited to providing materials for distribution by services publishing course materials. This restriction on unauthorized use also applies to all information which had been distributed to students or in any way had been displayed for use in relationship to the class, whether obtained in class, via email, on the internet, or via any other media. Refer to the USC Student Handbook for further details.
+Recording a university class in any form (including photography, video, and audio) is forbidden without the express permission of the instructor and announcement to the class, or unless conducted pursuant to an OSAS accommodation. Recording can inhibit free discussion in the future, and thus infringe on the academic freedom of other students as well as the instructor. Distribution or use of notes, recordings, exams, or other intellectual property based on university classes or lectures for purposes other than individual or group study is forbidden without the express permission of the instructor. This includes but is not limited to providing materials for distribution by services publishing course materials. This restriction on unauthorized use also applies to all information which had been distributed to students or in any way had been displayed for use in relationship to the class, whether obtained in class, via email, on the internet, or via any other media. Refer to the USC Student Handbook for further details.
 
-The University of Southern California is foremost a learning community committed to fostering successful scholars and researchers dedicated to the pursuit of knowledge and the transmission of ideas. Academic misconduct is in contrast to the university's mission to educate students through a broad array of first-rank academic, professional, and extracurricular programs and includes any act of dishonesty in the submission of academic work (either in draft or final form).
+The University of Southern California is foremost a learning community committed to fostering successful scholars and researchers dedicated to the pursuit of knowledge and the transmission of ideas. Academic misconduct is contrary to this fundamental mission and includes any act of dishonesty in the submission of academic work (either in draft or final form), as well as cheating, plagiarism, fabrication (e.g., falsifying data), knowingly assisting others in acts of academic dishonesty, and any act that gains or is intended to gain an unfair academic advantage. Students are expected to uphold the highest standards of academic integrity in all coursework.
 
-This course will follow the expectations for academic integrity as stated in the USC Student Handbook. All students are expected to submit assignments that are original work and prepared specifically for the course/section in this academic term. You may not submit work written by others or "recycle" work prepared for other courses without obtaining written permission from the instructor(s). Students suspected of engaging in academic misconduct will be reported to the Office of Academic Integrity. Other violations of academic misconduct include, but are not limited to, cheating, plagiarism, fabrication (e.g., falsifying data), knowingly assisting others in acts of academic dishonesty, and any act that gains or is intended to gain an unfair academic advantage. The impact of academic dishonesty is far-reaching and is considered a serious offense against the university and could result in outcomes such as failure on the assignment, failure in the course, suspension, or even expulsion from the university. For more information about academic integrity see the student handbook or the Office of Academic Integrity's website, and university policies on Research and Scholarship Misconduct.
-
-Make sure you review the student handbook for expectations on academic integrity and never commit [plagiarism](https://apastyle.apa.org/style-grammar-guidelines/citations/plagiarism). It is serious academic misconduct. In all your assignments, make sure you do not copy/paste any words, images, code, or other content written by another author (including the author of the piece to which you are responding) without quote marks and citation. If you use someone else's words, you must always use *quote* marks and *cite* them. If you refer to their ideas in your own words, you must *cite* them to make it clear whose ideas you're referring to. In a reading response, citing the reading's author inline is sufficient for us to understand the citation. In other contexts, use a formal reference to make your citation clear.
-
-Content generated from AI, machine learning, or similar algorithmic tools including Chat-GPT and Google Translate cannot be submitted in this course. A violation of this policy constitutes academic misconduct.
+This course follows the expectations for academic integrity as stated in the USC Student Handbook. All students are expected to submit assignments that are original work and prepared specifically for the course/section in this academic term. Students may not submit work written by others or "recycle" work prepared for other courses without obtaining written permission from the instructor(s). Students suspected of academic misconduct will be reported to the Office of Academic Integrity. Academic dishonesty has a far-reaching impact and is considered a serious offense against the university. Violations will result in a grade penalty, such as a failing grade on the assignment or in the course, and disciplinary action from the university, such as suspension or expulsion. For more information about academic integrity see the Student Handbook, the Office of Academic Integrity's website, and university policies on Research and Scholarship Misconduct.
 
 ## Support Systems
 
-Counseling and Mental Health - (213) 740-9355 – 24/7 on call, Free and confidential mental health treatment for students, including short-term psychotherapy, group counseling, stress fitness workshops, and crisis intervention.
+Student Financial Aid and Satisfactory Academic Progress: To be eligible for certain kinds of financial aid, students are required to maintain Satisfactory Academic Progress (SAP) toward their degree objectives. Visit the Financial Aid Office webpage for undergraduate- and graduate-level SAP eligibility requirements and the appeals process.
 
-988 Suicide and Crisis Lifeline - 988 for both calls and text messages – 24/7 on call, The 988 Suicide and Crisis Lifeline (formerly known as the National Suicide Prevention Lifeline) provides free and confidential emotional support to people in suicidal crisis or emotional distress 24 hours a day, 7 days a week, across the United States. The Lifeline is comprised of a national network of over 200 local crisis centers, combining custom local care and resources with national standards and best practices. The new, shorter phone number makes it easier for people to remember and access mental health crisis services (though the previous 1 (800) 273-8255 number will continue to function indefinitely) and represents a continued commitment to those in crisis.
+Counseling and Mental Health - (213) 740-9355 - 24/7 on call. Free and confidential mental health treatment for students, including short-term psychotherapy, group counseling, stress fitness workshops, and crisis intervention.
 
-Relationship and Sexual Violence Prevention Services (RSVP) - (213) 740-9355(WELL) – 24/7 on call, Free and confidential therapy services, workshops, and training for situations related to gender- and power-based harm (including sexual assault, intimate partner violence, and stalking).
+988 Suicide and Crisis Lifeline - 988 for both calls and text messages - 24/7 on call. The 988 Suicide and Crisis Lifeline (formerly known as the National Suicide Prevention Lifeline) provides free and confidential emotional support to people in suicidal crisis or emotional distress 24 hours a day, 7 days a week, across the United States. The Lifeline consists of a national network of over 200 local crisis centers, combining custom local care and resources with national standards and best practices. The new, shorter phone number makes it easier for people to remember and access mental health crisis services (though the previous 1 (800) 273-8255 number will continue to function indefinitely) and represents a continued commitment to those in crisis.
 
-Office for Equity, Equal Opportunity, and Title IX (EEO-TIX) - (213) 740-5086, Information about how to get help or help someone affected by harassment or discrimination, rights of protected classes, reporting options, and additional resources for students, faculty, staff, visitors, and applicants.
+CARE-SC: Confidential Advocacy, Resources, and Education Support Center - (213) 740-9355(WELL) - 24/7/365 on call. Confidential advocates, prevention educators, and professional counseling teams work to promote a universal culture of consent, as well as prevent and respond to sexual assault, intimate partner violence, stalking, or other relationship harm. Services available to all USC students at no cost.
 
-Reporting Incidents of Bias or Harassment - (213) 740-5086 or (213) 821-8298, Avenue to report incidents of bias, hate crimes, and microaggressions to the Office for Equity, Equal Opportunity, and Title for appropriate investigation, supportive measures, and response.
+Office of Civil Rights Compliance - (213) 740-5086. Information about how to get help or help someone affected by harassment, discrimination, retaliation on the basis of a protected characteristic, rights of protected classes, reporting options, and additional resources for students, faculty, staff, visitors, and applicants.
 
-The Office of Student Accessibility Services (OSAS) - (213) 740-0776, OSAS ensures equal access for students with disabilities through providing academic accommodations and auxiliary aids in accordance with federal laws and university policy.
+USC Report & Response - (213) 740-2500. The USC Report & Response website is the university's central reporting portal for concerns arising in the academic space or workplace.  All concerns will be assessed and referred to the appropriate university office for resolution.  Any questions about USC Report & Response or reporting, in general, can be referred to the Office of Professionalism and Ethics at ope@usc.edu.
 
-USC Campus Support and Intervention - (213) 740-0411, Assists students and families in resolving complex personal, financial, and academic issues adversely affecting their success as a student.
+USC Campus Support and Intervention - (213) 740-0411. Focuses on student success by assisting students in navigating and resolving complex issues through problem solving, presenting options, and connecting to resources.
 
-Diversity, Equity and Inclusion - (213) 740-2101, Information on events, programs and training, the Provost's Diversity and Inclusion Council, Diversity Liaisons for each academic school, chronology, participation, and various resources for students.
+USC Emergency Information. Latest updates regarding safety, including ways in which instruction will be continued if an officially declared emergency makes travel to campus infeasible.
 
-USC Emergency - UPC: (213) 740-4321, HSC: (323) 442-1000 – 24/7 on call, Emergency assistance and avenue to report a crime. Latest updates regarding safety, including ways in which instruction will be continued if an officially declared emergency makes travel to campus infeasible.
+USC Department of Public Safety. For 24 hour emergency assistance or to report a crime: UPC: (213) 740-4321, HSC: (323)-442-1000. For 24 hour non-emergency assistance or information: UPC: (213) 740-6000, HSC: 323-442-1200.
 
-USC Department of Public Safety - UPC: (213) 740-6000, HSC: (323) 442-1200 – 24/7 on call, Non-emergency assistance or information.
+Office of the Ombuds - (213) 821-9556 (UPC) / (323-442-0382 (HSC). A safe and confidential place to share your USC-related issues with a University Ombuds who will work with you to explore options or paths to manage your concern.
 
-Office of the Ombuds - (213) 821-9556 (UPC) / (323-442-0382 (HSC), A safe and confidential place to share your USC-related issues with a University Ombuds who will work with you to explore options or paths to manage your concern.
-
-Occupational Therapy Faculty Practice - (323) 442-2850 or otfp@med.usc.edu, Confidential Lifestyle Redesign services for USC students to support health promoting habits and routines that enhance quality of life and academic performance.
+Occupational Therapy Faculty Practice - (323) 442-2850 or otfp@med.usc.edu. ​Confidential Lifestyle Redesign services for USC students to support health promoting habits and routines that enhance quality of life and academic performance. 

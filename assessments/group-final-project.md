@@ -2,8 +2,6 @@
 
 See the schedule in the syllabus for all assignment due dates and expectations. Group exercises need only one submission per group, so nominate a single submitter to submit on behalf of the whole group. You will be graded on your adherence to *all* the instructions. Please read the instructions carefully.
 
-## Overview
-
 The final project is a cumulative and applied group assignment that requires you to collectively use the skills you developed over the entire semester. You will develop an interesting question then answer it using the statistics, modeling, and visualization methods you have learned in this course.
 
 ## Instructions

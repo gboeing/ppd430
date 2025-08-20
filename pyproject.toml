@@ -1,0 +1,26 @@
+[project]
+name = "PPD430"
+version = "0.1.0"
+description = "USC PPD430: Urban Informatics "
+readme = "README.md"
+requires-python = "==3.13.*"
+dependencies = [
+    "folium==0.20.*",
+    "geopandas==1.1.*",
+    "geopy==2.4.*",
+    "jupyterlab==4.4.*",
+    "mapclassify==2.10.*",
+    "numpy==2.3.*",
+    "osmnx==2.0.*",
+    "pandas==2.3.*",
+    "requests==2.32.*",
+    "scipy==1.16.*",
+    "seaborn==0.13.*",
+    "shapely==2.1.*",
+    "statsmodels==0.14.*",
+]
+
+[dependency-groups]
+dev = [
+    "pre-commit==4.3.*",
+]
