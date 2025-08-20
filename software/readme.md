@@ -4,7 +4,9 @@ You need a laptop for this course, but all the required software is free and ope
 
 ## Google Colab
 
-Make sure you have read Module 1's assigned readings. Go to [Google Colab](https://colab.research.google.com/github/gboeing/ppd430/blob/main) and ensure *you are signed into your USC account*, not your personal Google account. This will use your USC Google Drive for cloud file storage.
+First, make sure you have read Module 1's assigned readings.
+
+Next, click the Colab button in this repo's root readme file. Then ensure *you are signed into your USC account*, not your personal Google account. That way you use your USC Google Drive for cloud file storage.
 
 ## Troubleshooting
 
