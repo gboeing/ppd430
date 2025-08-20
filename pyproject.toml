@@ -1,9 +1,5 @@
 [project]
-name = "PPD430"
-version = "0.1.0"
-description = "USC PPD430: Urban Informatics "
-readme = "README.md"
-requires-python = "==3.13.*"
+authors = [{ name = "Geoff Boeing", email = "boeing@usc.edu" }]
 dependencies = [
     "folium==0.20.*",
     "geopandas==1.1.*",
@@ -11,7 +7,7 @@ dependencies = [
     "jupyterlab==4.4.*",
     "mapclassify==2.10.*",
     "numpy==2.3.*",
-    "osmnx==2.0.*",
+    "osmnx[all]==2.0.*",
     "pandas==2.3.*",
     "requests==2.32.*",
     "scipy==1.16.*",
@@ -19,8 +15,27 @@ dependencies = [
     "shapely==2.1.*",
     "statsmodels==0.14.*",
 ]
+description = "USC PPD430: Urban Informatics"
+license = "MIT"
+license-files = ["LICENSE.txt"]
+name = "PPD430"
+readme = "README.md"
+requires-python = "==3.13.*"
+version = "2025"
 
 [dependency-groups]
-dev = [
-    "pre-commit==4.3.*",
-]
+dev = ["nbdime", "pre-commit"]
+
+[tool.ruff]
+cache-dir = "~/.cache/pre-commit/ruff"
+line-length = 100
+
+[tool.ruff.lint]
+extend-select = ["A", "B", "E", "F", "I", "UP", "W"]
+
+[tool.ruff.lint.per-file-ignores]
+# allow intentional errors in bootcamp lecture
+"modules/03-coding-bootcamp-i/lecture.ipynb" = ["B018", "F821"]
+
+[tool.ruff.lint.pycodestyle]
+max-line-length = 110 # line length + 10% since it isn't a hard upper bound
