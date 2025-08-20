@@ -18,7 +18,15 @@ Create 3 or more static data visualizations, such as scatter plots, bar charts, 
 
 Create 3 or more maps, including at least 1 choropleth map and 1 point map.
 
-Write a narrative paper (illustrated with your data visualizations) telling the story of your analysis in 2500+ words (not including tables, figures, captions, or references). Incorporate the visualizations and analytical results into your narrative. Organize it into five sections: 1, introduction (provide an overview of your entire project); 2, background (explain the context, prior work, and motivation leading to your question). 3, methods (explain your data and your analytical process). 4, results (lay out your findings and visuals). 5, discussion (circle back to your question and what your analysis tells you about it, what is the big picture and how are these findings useful?). At the top of the first page, include your names, the date, your project title, and the word count (not including tables, figures, captions, or references). At the end of the paper, describe each group member's contribution to this final project (one sentence each).
+Write a narrative paper (illustrated with your data visualizations) telling the story of your analysis in 2500+ words (not including tables, figures, captions, or references). Incorporate the visualizations and analytical results into your narrative and write everything in paragraphs rather than bullet points. Organize the paper into five sections:
+
+1. introduction (provide an overview of your entire project)
+2. background (explain the context, prior work, and motivation leading to your question)
+3. methods (explain your data and analyses such that a knowledgeable expert could independently reproduce your study's results without seeing your code)
+4. results (lay out your findings and visuals)
+5. discussion (circle back to your question and what your analysis tells you about it, what is the big picture and how are these findings useful)
+
+At the top of the first page, include your names, the date, your project title, and the word count (not including tables, figures, captions, or references). At the end of the paper, describe each group member's contribution to this final project (one sentence each).
 
 ## Submission
 
