@@ -128,7 +128,7 @@ In-class group activities and graded group exercises leverage your diversity of 
 
 Learning objectives: course policies, the semester's schedule, and the computing environment for coursework.
 
-Pre-class readings/prep:
+Pre-class prep material:
   - this syllabus
   - TutorialsPoint [Google Colab Tutorial](https://www.tutorialspoint.com/google_colab/) (from the beginning through the "sharing your notebook" section).
 
@@ -142,7 +142,7 @@ Activities and assessments:
 
 Learning objectives: basic statistical concepts and terms, the US census and its methods, and sources of data including the decennial census, the ACS, and government data portals.
 
-Pre-class readings/prep:
+Pre-class prep material:
   - Wheelan, Naked Statistics, intro + ch. 1
   - Urdan, Statistics in Plain English, ch. 1. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
 
@@ -157,7 +157,7 @@ Activities and assessments:
 
 Learning objectives: we introduce the basics of Python, a powerful programming language for data analysis, visualization, and software development; then we work with Python via the Jupyter notebook, which lets you use Python in an interactive coding environment.
 
-Pre-class readings/prep:
+Pre-class prep material:
   - Review the TutorialsPoint reading from week 1 again
   - Downey, Think Python, ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
@@ -172,7 +172,7 @@ Activities and assessments:
 
 Learning objectives: we introduce the basics of control flow - using loops, conditionals, and functions to control the logic and flow of your code's execution.
 
-Pre-class readings/prep:
+Pre-class prep material:
   - Downey, Think Python, ch. 4-7. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
 Activities and assessments:
@@ -185,7 +185,7 @@ Activities and assessments:
 
 Learning objectives: we introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
 
-Pre-class readings/prep:
+Pre-class prep material:
   - Wheelan, Naked Statistics, ch. 2-3
   - Urdan, Statistics in Plain English, ch. 2-3. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
 
@@ -200,7 +200,7 @@ Activities and assessments:
 
 Learning objectives: we introduce the basics of visualizing data for exploratory analysis: looking visually for summaries, patterns, and trends.
 
-Pre-class readings/prep:
+Pre-class prep material:
   - Muth, blog post on [choosing colors](https://blog.datawrapper.de/colors/)
   - Tufte, Visual Display of Quantitative Information, ch. 1-3
 
@@ -215,7 +215,7 @@ Activities and assessments:
 
 Learning objectives: we introduce the basics of loading spatial data, projecting them, analyzing them, and mapping them.
 
-Pre-class readings/prep:
+Pre-class prep material:
   - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/introGIS.html).
 
 Activities and assessments:
@@ -229,7 +229,7 @@ Activities and assessments:
 
 Learning objectives: we hold a workshop on working with spatial data.
 
-Pre-class readings/prep:
+Pre-class prep material:
   - Wheelan, Naked Statistics, ch. 8-10
 
 Activities and assessments:
@@ -256,7 +256,7 @@ See assessments folder for details.
 
 Learning objectives: we introduce working with APIs to automatically collect data from the Internet.
 
-Pre-class readings/prep:
+Pre-class prep material:
   - Park. 2019. How Do APIs Work? Tray.io. [Direct link](https://tray.io/blog/how-do-apis-work).
   - Boeing, Off the Grid and Back Again. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2020.1819382). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2020.1819382).
 
@@ -270,7 +270,7 @@ Activities and assessments:
 
 Learning objectives: we introduce the uses and abuses of urban models and explore their specification, estimation, and interpretation.
 
-Pre-class readings/prep:
+Pre-class prep material:
   - Singleton et al., Urban Analytics, ch. 6
   - Wheelan, Naked Statistics, ch. 4 + 11-13
 
@@ -285,7 +285,7 @@ Activities and assessments:
 
 Learning objectives: we introduce the social context and limitations of urban informatics, then consider the smart cities paradigm, civic technology, and citizen science.
 
-Pre-class readings/prep:
+Pre-class prep material:
   - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
 
 Activities and assessments:
