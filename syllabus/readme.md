@@ -2,8 +2,6 @@
 
 USC PPD430 / Fall 2025 / 4 units
 
-
-
 # Instructor Info
 
 [Prof. Geoff Boeing](https://geoffboeing.com)
@@ -16,7 +14,6 @@ Classroom location and meeting times are [listed online](https://classes.usc.edu
 
 TA: Jiyoon Kim (email: kimjiyoo at usc dot edu, office hours: time TBD, location TBD)
 
-
 # Course Description
 
 This course empowers you to consume, produce, and evaluate urban data to better interpret and tell urban stories. It will introduce basic coding, visualization, and data processing and analysis. The course uses Python and Jupyter notebooks to introduce coding and statistical methods that students can reproduce and experiment with in real-time in the classroom. We start the semester with the basics of coding, then move on to data loading and analysis, then visualization and mapping, and then a critical assessment of urban informatics as a field.
@@ -24,12 +21,10 @@ This course empowers you to consume, produce, and evaluate urban data to better 
 Each week, students will be expected to:
 
   - Complete and be prepared to discuss assigned readings and videos
-  - Complete and submit any learning assessments
+  - Complete and submit any learning assessments due
   - Attend the class session
 
 The course has no specific prerequisites. Coding itself will be taught from the ground-up. However, this course requires patience and practice: learning to code will take lots of trial-and-error, self-direction, repetition, and experimentation on your part. You will get out of it what you are willing to put into it. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
-
-
 
 # Learning Objectives
 
@@ -38,8 +33,6 @@ The course has no specific prerequisites. Coding itself will be taught from the 
   - Explore, wrangle, clean, transform, and merge data
   - Visualize and map urban data
   - Conduct basic urban analytics
-
-
 
 # Questions and Assistance
 
@@ -67,17 +60,17 @@ If the above steps haven't solved your problem, post on Slack and include the fo
 
 We do not ask for this to be pedantic. Rather, we need it to be able to help you solve your issue and avoid the [XY Problem](https://en.wikipedia.org/wiki/XY_problem).
 
-
-
 # Materials
 
 Coursework will be based on free open-source software. Copyrighted course reading materials are available via Brightspace for enrolled students to download. The course lectures assume that you have read the assigned readings prior to the class session and are now reasonably fluent in their contents and ready to discuss/debate them in class. Lectures are supplemental to the assigned reading and are of little value if you haven't taken the time to prepare in advance. So, before class, make sure you have completed the assigned reading, taken thorough notes, and prepared any questions you may have about the material.
 
-
-
 # Coursework
 
 The following sections outline the work you agree to do by enrolling in this course. Per USC guidelines, for each course unit the university expects 2 hours of out-of-class student work per week. This is a 4 unit course. Therefore, you should expect an average of 8 hours of out-of-class work each week. Please budget your time accordingly. See the schedule below for learning assessment due dates and see the "assessments" folder for instructions.
+
+## Attendance Policy
+
+This is an in-person course. Students are expected to manage their schedules such that they can keep all of their commitments, including attending class. If you need to miss a class session, do not notify the instructor: attendance is not taken, so there are no "excused" versus "unexcused" absences, nor are there accommodations for missing in-class activities. It is the student's responsibility to request notes, etc from others who were in attendance.
 
 ## Submission Policy
 
@@ -89,13 +82,13 @@ Please submit early to avoid any last-minute headaches such as slow uploads, con
 
 The professional world demands punctuality, which we practice in this course through relatively strict deadlines. However, sometimes things come up and we could use a little grace. Each assessment comes with a 12-hour, no-questions-asked grace period following its deadline during which it will be accepted as though on-time (does not apply to exams or final projects). You can submit after that for a 25% penalty until the submission system closes completely 24 hours after the original deadline.
 
-You additionally have two "free drops" that you can use to drop any individual assessments (does not apply to group work or exams). Just submit a free drop on Brightspace, identify the assessment to drop in the comment box, and we will set its grade to 100%. Do not notify the instructor: you don't have to ask for permission, or justify it, or provide documentation. This offers you some grace without having to share private information about your personal circumstances, family, or health. For example, use a free drop to stay home sick and not worry about losing points for an in-class activity that day. Or use one to take a week off if an emergency occurs, such as sudden hospitalization or a death in the family. But save them for when you really need them: if you require more than these two free drops, you must get an accommodation through OSAS for additional extensions.
+You additionally have two "free drops" that you can use to drop any individual assessments (does not apply to group work or exams). Just submit a free drop on Brightspace, identify the assessment to drop in the comment box, and we will set its grade to 100%. Do not notify the instructor: you don't have to ask for permission, or justify it, or provide documentation. This offers you some grace without having to share private information about your personal circumstances, family, or health. For example, use a free drop to stay home sick and not worry about losing points for an in-class activity that day. Or use one to take a week off if an emergency occurs, such as sudden hospitalization or a death in the family. But save them for when you really need them: if you require more than these two free drops, you must get an OSAS accommodation for additional extensions.
 
 ## Grading Policy
 
 You can expect the grade you earned to be posted within two weeks of each assessment's due date. Grades are earned solely based on how well submissions fulfill the instructions and demonstrate your proficiency in the material. Effort and time spent do not factor in to grades. If your demonstrated proficiency is not where you want it to be, start coming to office hours, refocus your effort onto more effective study strategies, and optionally consider tutoring services.
 
-Posted grades are final and non-negotiable. This policy exists to protect you and ensure equitable outcomes for both you and your classmates. Professors don't arbitrarily hand out grades, and thus they should never arbitrarily alter them either. Accordingly, no grade disputes regarding the grader's expert judgment and standards will be considered. However, if we have made an arithmetic error in inputting your grade (e.g., you earned a certain number of points but we summed them incorrectly in the final grade), please provide specific documentation of that clerical error and we'll be happy to correct it.
+Posted grades are final and non-negotiable. This policy exists to protect you and ensure equitable outcomes for both you and your classmates. Professors don't arbitrarily hand out grades, and thus they should never arbitrarily alter them either. Accordingly, no grade disputes regarding the grader's judgment and standards will be considered. However, if we have made an arithmetic error in inputting your grade (e.g., you earned a certain number of points but we summed them incorrectly in the final grade), please provide specific documentation of that clerical error and we'll be happy to correct it.
 
 Final grade weighting (there is no extra credit):
 
@@ -114,35 +107,25 @@ Final grade percentage ranges and meaning:
   - 60 ≤ D < 70 (low pass)
   - F < 60 (fail)
 
-## Attendance Policy and Group Work
-
-This is an in-person course. Students are expected to manage their schedules such that they can keep all of their commitments, including attending class. If you need to miss a class session, do not notify the instructor: attendance is not taken, so there are no "excused" versus "unexcused" absences, nor are there accommodations for missing in-class activities. It is the student's responsibility to request notes, etc from others who were in attendance.
-
-In-class group activities and graded group exercises leverage your diversity of skills and life experiences. We expect each of you to contribute to your group in whatever way you can create proportional value: some will be better at code, others at writing, etc. We don't intend to hold your hand: coordination, delegation, accountability, and conflict resolution are challenging but necessary professional skills. Organize, collaborate, and communicate proactively with one another. There will be a formal group peer review at the end of the semester to help determine the participation grade you earned. See also: [Coping with Hitchhikers and Couch Potatoes on Teams](https://www.cs.cornell.edu/courses/cs3110/2018fa/teams/hitchhikers.html).
-
-
-
 # Schedule
 
 ## Aug 26 - Introduction
 
 Learning objectives: course policies, the semester's schedule, and the computing environment for coursework.
 
-Pre-class prep material:
+Pre-class prep:
   - this syllabus
   - TutorialsPoint [Google Colab Tutorial](https://www.tutorialspoint.com/google_colab/) (from the beginning through the "sharing your notebook" section).
 
 Activities and assessments:
   - in-class problem set 1
-  - pre-course survey and Slack introductions
-
-
+  - in-class pre-course survey and Slack introductions
 
 ## Sep 2 - Data Collection
 
 Learning objectives: basic statistical concepts and terms, the US census and its methods, and sources of data including the decennial census, the ACS, and government data portals.
 
-Pre-class prep material:
+Pre-class prep:
   - Wheelan, Naked Statistics, intro + ch. 1
   - Urdan, Statistics in Plain English, ch. 1. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
 
@@ -151,13 +134,11 @@ Activities and assessments:
   - in-class problem set 2
   - in-class group work for exercise 1
 
-
-
 ## Sep 9 - Coding Bootcamp I
 
 Learning objectives: we introduce the basics of Python, a powerful programming language for data analysis, visualization, and software development; then we work with Python via the Jupyter notebook, which lets you use Python in an interactive coding environment.
 
-Pre-class prep material:
+Pre-class prep:
   - Review the TutorialsPoint reading from week 1 again
   - Downey, Think Python, ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
@@ -166,13 +147,11 @@ Activities and assessments:
   - prep notes 2 due the Sunday before class
   - in-class problem set 3
 
-
-
 ## Sep 16 - Coding Bootcamp II
 
 Learning objectives: we introduce the basics of control flow - using loops, conditionals, and functions to control the logic and flow of your code's execution.
 
-Pre-class prep material:
+Pre-class prep:
   - Downey, Think Python, ch. 4-7. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
 Activities and assessments:
@@ -180,12 +159,11 @@ Activities and assessments:
   - in-class problem set 4
   - in-class group work for exercise 2
 
-
 ## Sep 23 - Working with Data
 
 Learning objectives: we introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
 
-Pre-class prep material:
+Pre-class prep:
   - Wheelan, Naked Statistics, ch. 2-3
   - Urdan, Statistics in Plain English, ch. 2-3. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
 
@@ -194,13 +172,11 @@ Activities and assessments:
   - prep notes 4 due the Sunday before class
   - in-class problem set 5
 
-
-
 ## Sep 30 - Visualizing Data
 
 Learning objectives: we introduce the basics of visualizing data for exploratory analysis: looking visually for summaries, patterns, and trends.
 
-Pre-class prep material:
+Pre-class prep:
   - Muth, blog post on [choosing colors](https://blog.datawrapper.de/colors/)
   - Tufte, Visual Display of Quantitative Information, ch. 1-3
 
@@ -209,13 +185,11 @@ Activities and assessments:
   - in-class problem set 6
   - in-class group work for exercise 3
 
-
-
 ## Oct 7 - Spatial Data
 
 Learning objectives: we introduce the basics of loading spatial data, projecting them, analyzing them, and mapping them.
 
-Pre-class prep material:
+Pre-class prep:
   - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/introGIS.html).
 
 Activities and assessments:
@@ -223,13 +197,11 @@ Activities and assessments:
   - group exercise 3 due the Sunday before class
   - in-class problem set 7
 
-
-
 ## Oct 14 - Spatial Data Workshop
 
 Learning objectives: we hold a workshop on working with spatial data.
 
-Pre-class prep material:
+Pre-class prep:
   - Wheelan, Naked Statistics, ch. 8-10
 
 Activities and assessments:
@@ -238,25 +210,19 @@ Activities and assessments:
   - in-class group work for exercise 4
   - group exercise 4 due the day after class
 
-
-
 ## Oct 21 - No class
 
 Class canceled for conference travel.
-
-
 
 ## Oct 28 - Mid-Term Exam
 
 See assessments folder for details.
 
-
-
 ## Nov 4 - APIs
 
 Learning objectives: we introduce working with APIs to automatically collect data from the Internet.
 
-Pre-class prep material:
+Pre-class prep:
   - Park. 2019. How Do APIs Work? Tray.io. [Direct link](https://tray.io/blog/how-do-apis-work).
   - Boeing, Off the Grid and Back Again. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2020.1819382). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2020.1819382).
 
@@ -264,13 +230,11 @@ Activities and assessments:
   - prep notes 8 due the Sunday before class
   - in-class problem set 8
 
-
-
 ## Nov 11 - Urban Models
 
 Learning objectives: we introduce the uses and abuses of urban models and explore their specification, estimation, and interpretation.
 
-Pre-class prep material:
+Pre-class prep:
   - Singleton et al., Urban Analytics, ch. 6
   - Wheelan, Naked Statistics, ch. 4 + 11-13
 
@@ -279,21 +243,17 @@ Activities and assessments:
   - in-class problem set 9
   - in-class group work for exercise 5
 
-
-
 ## Nov 18 - Smart Cities and Informatics
 
 Learning objectives: we introduce the social context and limitations of urban informatics, then consider the smart cities paradigm, civic technology, and citizen science.
 
-Pre-class prep material:
+Pre-class prep:
   - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
 
 Activities and assessments:
   - group exercise 5 due the Sunday before class
   - prep notes 10 due the Sunday before class
   - in-class problem set 10
-
-
 
 ## Nov 25 - Final Workshop
 
@@ -302,35 +262,19 @@ Learning objectives: we review the semester's material, practice different skill
 Activities and assessments:
   - in-class group work for the final projects
 
-
-
 ## Dec 2 - Final Presentations
 
 Learning objectives: we present our final projects and receive feedback for revisions before final submission.
 
 Activities and assessments:
   - in-class group presentations
-  - in-class course evaluations
-  - in-class group peer assessments
-
-
+  - in-class course evaluations and peer review
 
 ## Dec 5 - Final Group Projects Due
 
 See the assessments folder for details.
 
-
-
 # Academic Conduct and Support
-
-## Classroom Norms
-
-Our classroom adheres to four central norms of professionalism:
-
-  - We respect others' opinions, but defer to facts.
-  - We give honest criticism, but keep it constructive and courteous.
-  - We alone are responsible for our own actions.
-  - We adhere to the syllabus, so the squeaky wheel does not gain an advantage over their peers.
 
 ## Accommodations
 
@@ -349,6 +293,15 @@ Recording a university class in any form (including photography, video, and audi
 The University of Southern California is foremost a learning community committed to fostering successful scholars and researchers dedicated to the pursuit of knowledge and the transmission of ideas. Academic misconduct is contrary to this fundamental mission and includes any act of dishonesty in the submission of academic work (either in draft or final form), as well as cheating, plagiarism, fabrication (e.g., falsifying data), knowingly assisting others in acts of academic dishonesty, and any act that gains or is intended to gain an unfair academic advantage. Students are expected to uphold the highest standards of academic integrity in all coursework.
 
 This course follows the expectations for academic integrity as stated in the USC Student Handbook. All students are expected to submit assignments that are original work and prepared specifically for the course/section in this academic term. Students may not submit work written by others or "recycle" work prepared for other courses without obtaining written permission from the instructor(s). Students suspected of academic misconduct will be reported to the Office of Academic Integrity. Academic dishonesty has a far-reaching impact and is considered a serious offense against the university. Violations will result in a grade penalty, such as a failing grade on the assignment or in the course, and disciplinary action from the university, such as suspension or expulsion. For more information about academic integrity see the Student Handbook, the Office of Academic Integrity's website, and university policies on Research and Scholarship Misconduct.
+
+## Classroom Norms
+
+Our classroom adheres to four central norms of professionalism:
+
+  - We respect others' opinions, but defer to facts.
+  - We give honest criticism, but keep it constructive and courteous.
+  - We alone are responsible for our own actions.
+  - We adhere to the syllabus, so the squeaky wheel does not gain an advantage over their peers.
 
 ## Support Systems
 
@@ -372,4 +325,4 @@ USC Department of Public Safety. For 24 hour emergency assistance or to report a
 
 Office of the Ombuds - (213) 821-9556 (UPC) / (323-442-0382 (HSC). A safe and confidential place to share your USC-related issues with a University Ombuds who will work with you to explore options or paths to manage your concern.
 
-Occupational Therapy Faculty Practice - (323) 442-2850 or otfp@med.usc.edu. ​Confidential Lifestyle Redesign services for USC students to support health promoting habits and routines that enhance quality of life and academic performance. 
+Occupational Therapy Faculty Practice - (323) 442-2850 or otfp@med.usc.edu. ​Confidential Lifestyle Redesign services for USC students to support health promoting habits and routines that enhance quality of life and academic performance.
