@@ -30,7 +30,7 @@ At the top of the first page, include your names, the date, your project title, 
 
 ## Submission
 
-Via Brightspace, submit a zip file containing the narrative (as PDF), your visualization and map image files, web maps (if any), and the Jupyter notebook(s) and data files used to complete this project. Make sure everything is runnable and reproducible. Submit a little early just to be safe around the deadline.
+Via Brightspace, submit a zip file containing the narrative paper (as PDF), your visualization and map image files, web maps (if any), and the Jupyter notebook(s) and data files used to complete this project. Make sure everything is runnable and reproducible. Submit a little early just to be safe around the deadline.
 
 ## Presentation
 
