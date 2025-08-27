@@ -210,15 +210,11 @@ Activities and assessments:
   - in-class group work for exercise 4
   - group exercise 4 due the day after class
 
-## Oct 21 - No class
-
-Class canceled for conference travel.
-
-## Oct 28 - Mid-Term Exam
+## Oct 21 - Mid-Term Exam
 
 See assessments folder for details.
 
-## Nov 4 - APIs
+## Oct 28 - APIs
 
 Learning objectives: we introduce working with APIs to automatically collect data from the Internet.
 
@@ -230,7 +226,7 @@ Activities and assessments:
   - prep notes 8 due the Sunday before class
   - in-class problem set 8
 
-## Nov 11 - Urban Models
+## Nov 4 - Urban Models
 
 Learning objectives: we introduce the uses and abuses of urban models and explore their specification, estimation, and interpretation.
 
@@ -242,6 +238,10 @@ Activities and assessments:
   - prep notes 9 due the Sunday before class
   - in-class problem set 9
   - in-class group work for exercise 5
+
+## Nov 11 - No class 
+
+Veterans Day Holiday
 
 ## Nov 18 - Smart Cities and Informatics
 
