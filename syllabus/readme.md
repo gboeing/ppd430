@@ -138,8 +138,9 @@ Activities and assessments:
 
 Learning objectives: we introduce the basics of Python, a powerful programming language for data analysis, visualization, and software development; then we work with Python via the Jupyter notebook, which lets you use Python in an interactive coding environment.
 
-Pre-class prep:
-  - Review the TutorialsPoint reading from week 1 again
+Pre-class prep: 
+  - *Optional* review the readings from module 1 again
+  - Video lecture "01-coding-bootcamp-1"
   - Downey, Think Python, ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
 Activities and assessments:
@@ -152,6 +153,7 @@ Activities and assessments:
 Learning objectives: we introduce the basics of control flow - using loops, conditionals, and functions to control the logic and flow of your code's execution.
 
 Pre-class prep:
+  - Video lecture "02-coding-bootcamp-2"
   - Downey, Think Python, ch. 4-7. [Direct link](https://greenteapress.com/wp/think-python-2e/)
 
 Activities and assessments:
@@ -164,6 +166,8 @@ Activities and assessments:
 Learning objectives: we introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
 
 Pre-class prep:
+  - Video lecture "03-data-cleaning-description"
+  - Google Colab External Data [Tutorial](https://colab.research.google.com/notebooks/io.ipynb)
   - Wheelan, Naked Statistics, ch. 2-3
   - Urdan, Statistics in Plain English, ch. 2-3. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
 
