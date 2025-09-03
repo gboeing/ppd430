@@ -138,7 +138,7 @@ Activities and assessments:
 
 Learning objectives: we introduce the basics of Python, a powerful programming language for data analysis, visualization, and software development; then we work with Python via the Jupyter notebook, which lets you use Python in an interactive coding environment.
 
-Pre-class prep: 
+Pre-class prep:
   - *Optional* review the readings from module 1 again
   - Video lecture "01-coding-bootcamp-1"
   - Downey, Think Python, ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-2e/)
@@ -243,7 +243,7 @@ Activities and assessments:
   - in-class problem set 9
   - in-class group work for exercise 5
 
-## Nov 11 - No class 
+## Nov 11 - No class
 
 Veterans Day Holiday
 

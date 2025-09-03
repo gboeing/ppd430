@@ -3,4 +3,3 @@
 # USC PPD 430
 
 ## Urban Informatics
-
