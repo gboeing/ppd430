@@ -225,8 +225,8 @@ See assessments folder for details.
 Learning objectives: we introduce working with APIs to automatically collect data from the Internet.
 
 Pre-class prep:
+  - Video lecture "06-apis"
   - Park. 2019. How Do APIs Work? Tray.io. [Direct link](https://tray.io/blog/how-do-apis-work).
-  - Boeing, Off the Grid and Back Again. Journal of the American Planning Association. [Direct link](https://doi.org/10.1080/01944363.2020.1819382). [USC link](https://www-doi-org.libproxy2.usc.edu/10.1080/01944363.2020.1819382).
 
 Activities and assessments:
   - prep notes 8 due the Sunday before class
