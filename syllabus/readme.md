@@ -127,7 +127,7 @@ Learning objectives: basic statistical concepts and terms, the US census and its
 
 Pre-class prep:
   - Wheelan, Naked Statistics, intro + ch. 1
-  - Urdan, Statistics in Plain English, ch. 1. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431).
+  - Urdan, Statistics in Plain English, ch. 1.
 
 Activities and assessments:
   - prep notes 1 due the Sunday before class
@@ -141,7 +141,7 @@ Learning objectives: we introduce the basics of Python, a powerful programming l
 Pre-class prep:
   - *Optional* review the readings from module 1 again
   - Video lecture "01-coding-bootcamp-1"
-  - Downey, Think Python, ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-2e/)
+  - Downey, Think Python, 3rd ed., ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-3rd-edition/)
 
 Activities and assessments:
   - group exercise 1 due the Sunday before class
@@ -154,7 +154,7 @@ Learning objectives: we introduce the basics of control flow - using loops, cond
 
 Pre-class prep:
   - Video lecture "02-coding-bootcamp-2"
-  - Downey, Think Python, ch. 4-7. [Direct link](https://greenteapress.com/wp/think-python-2e/)
+  - Downey, Think Python, 3rd ed., ch. 4-7. [Direct link](https://greenteapress.com/wp/think-python-3rd-edition/)
 
 Activities and assessments:
   - prep notes 3 due the Sunday before class
@@ -169,7 +169,7 @@ Pre-class prep:
   - Video lecture "03-data-cleaning-description"
   - Google Colab External Data [Tutorial](https://colab.research.google.com/notebooks/io.ipynb)
   - Wheelan, Naked Statistics, ch. 2-3
-  - Urdan, Statistics in Plain English, ch. 2-3. [USC link](https://ebookcentral.proquest.com/lib/socal/reader.action?docID=3060431)
+  - Urdan, Statistics in Plain English, ch. 2-3.
 
 Activities and assessments:
   - group exercise 2 due the Sunday before class
