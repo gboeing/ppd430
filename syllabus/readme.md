@@ -237,6 +237,7 @@ Activities and assessments:
 Learning objectives: we introduce the uses and abuses of urban models and explore their specification, estimation, and interpretation.
 
 Pre-class prep:
+  - Video lecture "07-statistical-models"
   - Singleton et al., Urban Analytics, ch. 6
   - Wheelan, Naked Statistics, ch. 4 + 11-13
 
