@@ -64,14 +64,14 @@ Then is AI ever good? Sure! A rule of thumb is that it helps you save time at th
 
 ## Some final college tips
 
-Know the syllabus. It's your contract with the professor, and you'll be bound by its policies. Is attendance required? Can you submit assignments late? Can you skip the last day of class to start an early vacation? Know what you've agreed to by enrolling in the course. Check the syllabus before you ask a course-related question. Most of them are already answered there.
+Know the syllabus. It's your contract with the professor, and you'll be bound by its policies. Is attendance required? Can you submit assignments late? Can you skip the last day of class to start an early vacation? Know what you've agreed to by enrolling in the course. Check the syllabus before you ask a course-related question: most of them are already answered there.
 
-Understand academic dishonesty and the different kinds of plagiarism. If you'd feel uncomfortable openly explaining what you're doing coursework-wise to your professor, then it is likely some form of academic misconduct.
+Follow the syllabus guidelines on where and how to ask course-related questions. Practice email etiquette. Check your university email daily and send all school-related emails from your university account. Write courteously. Be concise but detailed and specific. You're much more likely to get a useful response if you make it easy for your recipient to respond quickly and precisely.
 
-Follow the syllabus guidelines on where and how to ask course-related questions. Practice email etiquette. Check your university email daily and send all school-related emails from your university account. Write courteously. Be detailed and specific. You're much more likely to get a useful response if you make it easy for your recipient to respond quickly and precisely.
+Understand academic dishonesty and the different kinds of plagiarism. If you'd feel uncomfortable openly explaining what you're doing coursework-wise to your professor, then it is likely some form of academic misconduct. Sometimes students hire a tutor for extra learning practice, which is fine, but you should never hire someone to do your homework for you.
+
+Know the difference between *fault* and *responsibility*. Bad things happen in life: flat tires, illnesses, power outages, computer crashes. They are not your *fault*. But it is your *responsibility* to plan for them and still show up and submit things on time. Sometimes we don't meet all our responsibilities in life. It happens. If you lose points, remember that you're not being punished for being at *fault*. You're merely graded on outcomes and responsibilities met. We're training you for future professional success: "but it's not my fault" is simply irrelevant in outcome-oriented professional settings.
 
 Back up important files on your computer. If it crashed right now, and everything were wiped, what would you lose? Your answer *should* be: "nothing." If it isn't, then you need better back-ups.
 
 Start planning your exit. You won't be in school for long and you need to position yourself for what comes next. Network, talk to people, build relationships, be memorable, and make a positive impact on the lives around you.
-
-Know the difference between *fault* and *responsibility*. Bad things happen in life: flat tires, illnesses, power outages, computer crashes. They are not your *fault*. But it is your *responsibility* to plan for them and still show up for class and submit things on time. Sometimes we don't meet all our responsibilities in life. It happens. If you lose points, remember that you're not being punished for being at *fault*. You're merely graded on outcomes and responsibilities met. We're training you for future professional success: "but it's not my fault" is simply irrelevant in outcome-oriented professional settings.
