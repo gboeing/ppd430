@@ -66,7 +66,7 @@ Know the syllabus. It's your contract with the professor, and you'll be bound by
 
 Understand academic dishonesty and the different kinds of plagiarism. If you'd feel uncomfortable openly explaining what you're doing coursework-wise to your professor, then it is likely some form of academic misconduct.
 
-Follow the syllabus guidelines and where and how to ask course-related questions. Practice email etiquette. Check your university email daily and send all school-related emails from your university account. Write courteously. Be detailed and specific. You're much more likely to get a useful response if you make it easy for your recipient to respond quickly and precisely.
+Follow the syllabus guidelines on where and how to ask course-related questions. Practice email etiquette. Check your university email daily and send all school-related emails from your university account. Write courteously. Be detailed and specific. You're much more likely to get a useful response if you make it easy for your recipient to respond quickly and precisely.
 
 Back up important files on your computer. If it crashed right now, and everything were wiped, what would you lose? Your answer *should* be: "nothing." If it isn't, then you need better back-ups.
 
