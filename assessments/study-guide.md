@@ -22,15 +22,15 @@ With that in mind, here are some evidence-based strategies for effective learnin
 
 ## Reading
 
-Take notes when you read. Specifically focus those notes on restating in your own words the author's main point or argument in each section. What new terms or concepts were introduced? Restate them in your own words.
+Read more efficiently by reading more strategically. First, skim the chapter or paper and take note of the section headings, any bolded key terms, and core concepts singled out in examples or figures. Divide the reading into chunks, such as by sections. Not all sections have essential information. Skim some of them, but go slower with others. Highlight important passages and take notes as you read. Specifically focus those notes on briefly *restating in your own words* the author's main point or argument in each section. What new terms or concepts were introduced? Restate them in your own words, rather than copy/paste quoting.
 
 ## Lectures
 
-Take notes during the lecture. Specifically focus those notes on restating in your own words the instructor's main point and description of why and how things work.
+Take notes during the lecture. Similar to reading, specifically focus those notes on restating in your own words the instructor's main point and description of why and how things work.
 
 ## Practice
 
-Practice what you learned: write some code outside of class by using the in-class exercise prompts and the group assignments as a guide for what kinds of things to practice until you're comfortable with why and how they work.
+Practice what you learned. For example, if it's a class with coding and stats, write some code outside of class by using the in-lecture exercise prompts, practice notebooks, and group assignments as a guide for what kinds of things to practice until you're comfortable with *why* and *how* they work. The best way to know you've reached that stage is if you can explain the *why* and *how* to someone else without referring to your notes.
 
 ## Group study
 
