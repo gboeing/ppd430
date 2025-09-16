@@ -48,6 +48,8 @@ Many of us have outside commitments. We have families. We play sports. We work p
 
 Remember that assignment due dates are final deadlines, not indicators of when you're supposed to work on them. You are given several days (sometimes weeks) to complete assignments that take, at most, a few hours. Procrastinate at your own peril. Don't wait until the last minute to complete assignments that you had several days to work on. Cognitive science is clear that cramming is an ineffective learning strategy. In general, try to avoid working on assignments at all on the day they're due.
 
+Deadlines matter at school because they matter in the real world. Our job is to build habits that prepare you for that. You could spend months working on a massive grant application for federal funding, but if you miss the deadline, it will not be reviewed. If you have a report due to a client by a certain date, you had better deliver it on time if you ever want their business again. The professional world in outcome-oriented: excuses and extenuating circumstances are irrelevant when deadlines are set in stone.
+
 ## What about AI?
 
 Should I use AI to complete my homework?
