@@ -12,7 +12,7 @@ Office hours: Tue 13:00-14:00, RGL 301A
 
 Classroom location and meeting times are [listed online](https://classes.usc.edu)
 
-TA: Jiyoon Kim (email: kimjiyoo at usc dot edu, office hours: Tue 17:00-18:00, RGL 105 Student Lounge)
+TA: Jiyoon Kim (email: kimjiyoo at usc dot edu, office hours: Fri 14:00-15:00, on [Zoom]([url](https://calendly.com/kimjiyoo-usc/new-meeting)))
 
 # Course Description
 
