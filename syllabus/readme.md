@@ -1,6 +1,6 @@
 **Urban Informatics**
 
-USC PPD430 / Fall 2025 / 4 units
+USC PPD430 / Fall 2026 / 4 units
 
 # Instructor Info
 
@@ -85,7 +85,7 @@ Please submit early to avoid any last-minute headaches such as slow uploads, con
 
 The professional world demands punctuality, which we practice in this course through relatively strict deadlines. However, sometimes things come up and we could use a little grace. Each assessment comes with a 12-hour, no-questions-asked grace period following its deadline during which it will be accepted as though on-time (does not apply to exams or final projects). You can submit after that for a 25% penalty until the submission system closes completely 24 hours after the original deadline.
 
-You additionally have two "free drops" that you can use to drop any individual assessments (does not apply to group work or exams). Just submit a free drop on Brightspace, identify the assessment to drop in the comment box, and we will set its grade to 100%. Do not notify the instructor: you don't have to ask for permission, or justify it, or provide documentation. This offers you some grace without having to share private information about your personal circumstances, family, or health. For example, use a free drop to stay home sick and not worry about losing points for an in-class activity that day. Or use one to take a week off if an emergency occurs, such as sudden hospitalization or a death in the family. But save them for when you really need them: if you require more than these two free drops, you must get an OSAS accommodation for additional extensions.
+You additionally have two "free drops" that you can use to drop any individual assessments (does not apply to group work or exams) within 48 hours of its deadline. Just submit a free drop on Brightspace, identify the assessment to drop in the comment box, and we will set its grade to 100%. Do not notify the instructor: you don't have to ask for permission, or justify it, or provide documentation. This offers you some grace without having to share private information about your personal circumstances, family, or health. For example, use a free drop to stay home sick and not worry about losing points for an in-class activity that day. Or use one to take a week off if an emergency occurs, such as sudden hospitalization or a death in the family. But save them for when you really need them: you can't change your free drop after submitting it, and if you require more than these two free drops, you must get an OSAS accommodation for additional extensions.
 
 ## Grading Policy
 
@@ -219,7 +219,7 @@ Activities and assessments:
   - in-class group work for exercise 4
   - group exercise 4 due the day after class
 
-## Oct 21 - Mid-Term Exam
+## Oct 21 - Midterm Exam
 
 See assessments folder for details.
 
