@@ -2,7 +2,7 @@
 
 See the schedule in the syllabus for all assignment due dates and expectations. Group exercises need only one submission per group, so nominate a single submitter to submit on behalf of the whole group. You will be graded on your adherence to *all* the instructions. Please read the instructions carefully.
 
-The final project is a cumulative and applied group assignment that requires you to collectively use the skills you developed over the entire semester. You will develop an interesting question then answer it using the statistics, modeling, and visualization methods you have learned in this course.
+The final project is a cumulative and applied group assignment that requires you to collectively use the skills you developed over the entire semester. You will develop an interesting question then answer it using the statistics, modeling, and visualization methods you have learned in this course. Make sure that you review the feedback on the group exercises and address them in your final project submission.
 
 ## Instructions
 
@@ -30,7 +30,7 @@ At the top of the first page, include your names, the date, your project title, 
 
 ## Submission
 
-Via Brightspace, submit a zip file containing the narrative paper (as PDF), your visualization and map image files, web maps (if any), and the Jupyter notebook(s) and data files used to complete this project. Make sure everything is runnable and reproducible. Submit a little early just to be safe around the deadline, and remember that the final project deadline is strict: the submission system completely closes then and there are no extensions or grace period.
+Via Brightspace, submit a zip file containing the narrative paper (as PDF, with visuals inline in the text), your visualization and map image files, web maps (if any), and the Jupyter notebook(s) and data files used to complete this project. Make sure everything is runnable and reproducible. Submit a little early just to be safe around the deadline, and remember that the final project deadline is strict: the submission system completely closes then and there are no extensions or grace period.
 
 ## Presentation
 
